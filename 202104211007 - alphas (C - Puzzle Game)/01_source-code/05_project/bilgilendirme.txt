@@ -1,0 +1,11 @@
+Proje Netbeans 8.2 idesi üzerine yapılmıştır.
+main.c uzantılı dosya istenilen bir ide üzerinde derlenebilir, kullanılabilir.
+
+
+
+Mevcut tarih itibari ile aynı ödevden bir kişi daha hizmet almıştır.
+Kodlar olabilidiğince farklı gösterilmeye çabalanmıştır.
+Fakat kodu yazan kişinin aynı olması ve kodun şablona oturtulmuş olması,
+nedeniyle kendinizinde olabildiğince çok değişiklik yapması önerilmektedir.
+
+Teşekkürler.

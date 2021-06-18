@@ -1,0 +1,67 @@
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Anasayfa.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Giris.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Hakkinda.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Islem.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Kullanici.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_VeritabaniBaglanti.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Properties.Resources.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.csproj.GenerateResource.Cache
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.exe.config
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.exe
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.pdb
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.exe
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.pdb
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Arac.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Musteri.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Kiralama.resources
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.exe.config
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.exe
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.pdb
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Anasayfa.resources
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Kiralama.resources
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Giris.resources
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Hakkinda.resources
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Islem.resources
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Musteri.resources
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Kullanici.resources
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Arac.resources
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_VeritabaniBaglanti.resources
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Properties.Resources.resources
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.exe
+C:\Users\Main\Desktop\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.pdb
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.exe.config
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.exe
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.pdb
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Anasayfa.resources
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Kiralama.resources
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Giris.resources
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Hakkinda.resources
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Islem.resources
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Musteri.resources
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Kullanici.resources
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Arac.resources
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_VeritabaniBaglanti.resources
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Properties.Resources.resources
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.exe
+C:\Users\Main\Desktop\AracOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.pdb
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.exe.config
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.exe
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.pdb
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.csprojResolveAssemblyReference.cache
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Anasayfa.resources
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Kiralama.resources
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Giris.resources
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Hakkinda.resources
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Islem.resources
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Musteri.resources
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Kullanici.resources
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Arac.resources
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_VeritabaniBaglanti.resources
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Properties.Resources.resources
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.csproj.GenerateResource.Cache
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.exe
+X:\main\Freelance\#complated\202105181609 - scurodark1 (CSharp - Rent A Car Automation)\01_source-code\05_project\project\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.pdb

@@ -1,0 +1,6 @@
+G:\FreeLance\citynight\01_source-code\05_project\AracOtomasyon\AracOtomasyon\bin\Debug\AracOtomasyon.exe
+G:\FreeLance\citynight\01_source-code\05_project\AracOtomasyon\AracOtomasyon\bin\Debug\AracOtomasyon.pdb
+G:\FreeLance\citynight\01_source-code\05_project\AracOtomasyon\AracOtomasyon\obj\Debug\AracOtomasyon.csprojResolveAssemblyReference.cache
+G:\FreeLance\citynight\01_source-code\05_project\AracOtomasyon\AracOtomasyon\obj\Debug\AracOtomasyon.exe
+G:\FreeLance\citynight\01_source-code\05_project\AracOtomasyon\AracOtomasyon\obj\Debug\AracOtomasyon.pdb
+G:\FreeLance\citynight\01_source-code\05_project\AracOtomasyon\AracOtomasyon\bin\Debug\AracOtomasyon.exe.config

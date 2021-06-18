@@ -1,0 +1,23 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+
+public class MyHashSet<String> extends HashSet<String> {
+	public void addPTokens(ArrayList<String> a,ArrayList<java.lang.String> a2,ArrayList<java.lang.String> a3)
+	{
+		for(java.lang.String token:a)
+		{
+			System.out.println(token);
+			this.add((String) a);
+		}
+		for(java.lang.String token:a2)
+		{
+			this.add(token);
+		}
+		for(java.lang.String token:a3)
+		{
+			this.add(token);
+		}
+	}
+}

@@ -1,0 +1,4 @@
+Proje;
+Visual Studio 2017
+MS SQL Server 2012
+kullanılarak hazırlanmıştır.

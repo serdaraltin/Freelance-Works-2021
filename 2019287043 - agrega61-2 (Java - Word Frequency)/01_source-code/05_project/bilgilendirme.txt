@@ -1,0 +1,1 @@
+Netbeans 8.2 ve Java SDK 1.8 kullanılarak hazırlanmıştır.

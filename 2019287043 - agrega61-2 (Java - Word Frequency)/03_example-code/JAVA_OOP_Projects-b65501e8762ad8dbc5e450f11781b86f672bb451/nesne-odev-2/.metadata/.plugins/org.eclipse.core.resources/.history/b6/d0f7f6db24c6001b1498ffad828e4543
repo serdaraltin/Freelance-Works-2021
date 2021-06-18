@@ -1,0 +1,11 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+
+public class MyHashSet<T> extends HashSet<T> {
+	public void AddPTokens(Object p1,ArrayList<String> p2,ArrayList<String> p3)
+	{
+		this.addAll(p1);
+	}
+}

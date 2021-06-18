@@ -1,0 +1,29 @@
+void heap_insert(struct heap *heap, int key)
+{
+    struct dugum *dugum = NULL;
+    struct dugum *d = NULL;
+    struct dugum *geri = NULL;
+    d = heap->kok;
+    for (;d != NULL;)
+    {
+        geri = d;
+        if (key < d->anahtar){
+            d = d->sol_link;
+        else if (key > d->anahtar)
+            d = d->sag_link;
+        else
+            return;
+    }
+    struct dugum *d = (struct dugum *)malloc(sizeof(struct dugum));
+    dugum = d->anahtar = key;       
+    d->sol_link = d->sag_link = NULL; 
+    if (heap->kok == NULL)
+    {
+        heap->kok = dugum;
+        return;
+    }
+    if (key < geri->anahtar)
+        geri->sol_link = dugum;}
+    else
+        geri->sag_link = dugum;
+}

@@ -1,0 +1,9 @@
+package it;
+
+public class Classes {
+	int lessonNo=0;
+	String lessonName="";
+	int lessonEcts=0;
+	double examGrade=0;
+	
+}

@@ -1,0 +1,14 @@
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru2\bin\Debug\Soru2.exe
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru2\bin\Debug\Soru2.pdb
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru2\obj\Debug\Soru2.Properties.Resources.resources
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru2\obj\Debug\Soru2.Soru2.resources
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru2\obj\Debug\Soru2.csproj.GenerateResource.Cache
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru2\obj\Debug\Soru2.exe
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru2\obj\Debug\Soru2.pdb
+Y:\main\Freelance\#complated\202104062143 - denizsengul (CSharp - Cryptography Exam)\01_source-code\05_project\KriptolojiOdev\Soru2\bin\Debug\Soru2.exe
+Y:\main\Freelance\#complated\202104062143 - denizsengul (CSharp - Cryptography Exam)\01_source-code\05_project\KriptolojiOdev\Soru2\bin\Debug\Soru2.pdb
+Y:\main\Freelance\#complated\202104062143 - denizsengul (CSharp - Cryptography Exam)\01_source-code\05_project\KriptolojiOdev\Soru2\obj\Debug\Soru2.Properties.Resources.resources
+Y:\main\Freelance\#complated\202104062143 - denizsengul (CSharp - Cryptography Exam)\01_source-code\05_project\KriptolojiOdev\Soru2\obj\Debug\Soru2.Soru2.resources
+Y:\main\Freelance\#complated\202104062143 - denizsengul (CSharp - Cryptography Exam)\01_source-code\05_project\KriptolojiOdev\Soru2\obj\Debug\Soru2.csproj.GenerateResource.Cache
+Y:\main\Freelance\#complated\202104062143 - denizsengul (CSharp - Cryptography Exam)\01_source-code\05_project\KriptolojiOdev\Soru2\obj\Debug\Soru2.exe
+Y:\main\Freelance\#complated\202104062143 - denizsengul (CSharp - Cryptography Exam)\01_source-code\05_project\KriptolojiOdev\Soru2\obj\Debug\Soru2.pdb

@@ -1,0 +1,15 @@
+Güvenlik gerekçesiyle dosya şifrelenmiştir.
+Sipariş onaylandığında parola bilgisi aktarılacaktır.
+
+Teşekkürler.
+
+Not : Kanıt görselleri "01_evidence" klasöründe yer almaktadır.
+
+------------------------------------------------------------------
+
+Güvenlik gerekçesiyle dosya şifrelenmiştir.
+Sipariş onaylandığında parola bilgisi aktarılacaktır.
+
+Teşekkürler.
+
+Not : Kanıt videosu "01_evidence" klasöründe yer almaktadır.

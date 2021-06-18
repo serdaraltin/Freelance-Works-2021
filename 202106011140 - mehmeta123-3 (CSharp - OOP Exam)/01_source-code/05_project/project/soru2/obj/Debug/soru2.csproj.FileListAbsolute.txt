@@ -1,0 +1,4 @@
+Y:\Freelance\mehmeta123-3\01_source-code\05_project\blm236\soru2\bin\Debug\soru2.exe
+Y:\Freelance\mehmeta123-3\01_source-code\05_project\blm236\soru2\bin\Debug\soru2.pdb
+Y:\Freelance\mehmeta123-3\01_source-code\05_project\blm236\soru2\obj\Debug\soru2.exe
+Y:\Freelance\mehmeta123-3\01_source-code\05_project\blm236\soru2\obj\Debug\soru2.pdb

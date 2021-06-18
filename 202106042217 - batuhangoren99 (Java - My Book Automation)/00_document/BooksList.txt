@@ -1,0 +1,5 @@
+1, Hayata Merhaba, self-help, Filiz Akın, No award, 4.0,2006, 168, rebirth and hold on to life
+2, Fareler ve İnsanlar, novel, John Steinbeck, no award, 4.5, 2012, 126, a sense of friendship and solidarity of two contrasting characters
+3, Cehennem Vadisi, novel, Ali Erkan Kavaklı, no award, 4.4, 2012, 251, unsolved murders
+4, Don Kıyısında Hasat, novel, Şolohov, Lenin, 4.7, 2000, 439, collectivization of the soil
+5, Kayıp Sembol, thriller, Dan Brown, no award,4.0 , 2010, 527, the Golden Age of humanity

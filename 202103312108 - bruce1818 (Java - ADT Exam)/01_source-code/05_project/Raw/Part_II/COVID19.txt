@@ -1,0 +1,5 @@
+50
+Group1 30
+Group2 10
+Group3 50
+Group4 20

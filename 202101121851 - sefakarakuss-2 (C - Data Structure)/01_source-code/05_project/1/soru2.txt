@@ -1,0 +1,44 @@
+void listeyi_hash_tablosuna_donusturme(struct hash_tablosu *htable, struct cell **liste_basi)
+{
+    struct cell *lnode;
+    while (*liste_basi!=NULL)
+    {
+         int result = 0,index = hash((*liste_basi)->anahtar, htable->multiplier, htable->tablo_uzunlugu);       
+
+        if (*liste_basi == NULL)
+        {
+            strcpy((*liste_basi)->anahtar, (htable->tablo_basi+index)->header->anahtar));
+            (*liste_basi)->next = NULL;
+            result = 1;
+        }
+        else if (strcmp((*liste_basi)->anahtar, (htable->tablo_basi + index)->header->anahtar)))
+            {
+                while (*liste_basi == NULL)
+                {
+                    *liste_basi = (*liste_basi)->next;
+                }
+            strcpy((*liste_basi)->anahtar,(htable->tablo_basi+index)->header->anahtar));
+            (*liste_basi)->next = NULL;
+            result = 1;
+            }
+        else
+        {
+            result = 0;
+        }
+
+        switch (result)
+        {
+        case 1:
+            (htable->tablo_basi + index)->count++;
+            break;
+        case 0:
+            continue;
+            break;
+        }
+
+        lnode = *liste_basi;
+        *liste_basi = (*liste_basi)->next;
+        free(lnode->anahtar);
+        free(lnode);
+    }
+}

@@ -1,0 +1,4 @@
+Y:\main\Freelance\ensarcmn-3\01_source-code\05_project\ensarcmn-3\Soru2\bin\Debug\Soru2.exe
+Y:\main\Freelance\ensarcmn-3\01_source-code\05_project\ensarcmn-3\Soru2\bin\Debug\Soru2.pdb
+Y:\main\Freelance\ensarcmn-3\01_source-code\05_project\ensarcmn-3\Soru2\obj\Debug\Soru2.exe
+Y:\main\Freelance\ensarcmn-3\01_source-code\05_project\ensarcmn-3\Soru2\obj\Debug\Soru2.pdb

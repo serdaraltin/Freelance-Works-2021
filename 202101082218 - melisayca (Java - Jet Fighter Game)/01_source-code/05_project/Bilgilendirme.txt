@@ -1,0 +1,4 @@
+Proje Netbeans idesi ile yapılmıştır.
+Derlenmiş hali build klasörü altındadır.
+Proje materyalleri bulunduğu dizinde arar bundan dolayı resimler ve csv dosyaları o an projenin çalıştığı dizinde olmalıdır.
+Test>Main sınfı ile proje çalıştırılabilir. 

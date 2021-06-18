@@ -1,0 +1,11 @@
+Otel otomasyonu olacak kullanıcı giriş ekranı,giriş ekranından sonra açılacak panelde
+-personel kayıt
+-müşteri kayıt
+-oda kontrol
+-çıkış
+olacak.
+-personel kayıta tıklandığında personel bilgileri girilip ekle dedigimizde veritabanına yansıtılacak
+-personel kayıt ekranında bir buton olacak ve butona tıklandıgında müşteri listesini çekecek.
+-müşteri kayıta tıklandıgında müşteri bilgileri girilip ekle dedigimizde veritabanına yansıtılacak
+-müşteri kayıt ekranında bir buton olacak ve butona tıklandıgında müşteri listesini çekecek.
+-oda kontrolde 10 adet oda olacak müşteri kayıt ederken oda no da kayıt edilecek odalara tıklandıgında dolu boş oranı gözükecek.

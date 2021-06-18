@@ -1,0 +1,54 @@
+Soru 1:
+Aşağıdaki nesne tabanlı programlama kavramlarını örnek kodlar üzerinde açıklayınız.
+- Encapsulation
+- Abstraction
+- Polymorphism
+- Inheritance
+
+soru 2:
+Sınıf elemanlarının erişim kapsamlarını örnek kodlar üzerinde açıklayınız.
+- Public
+- Private
+- Friend
+- Protected
+- Protected Friend
+
+
+
+Soru 3:
+Farklı bilgilerin tutarlılığını denetlemek üzere bir “kontrol” isminde bir sınıf yazmak
+istiyoruz. Sınıfı aşağıdaki işlevleri sağlayacak şekilde kodlayınız.
+- Bir e-posta adresinin geçerli olması için içerisinde bir @ karakteri, onun başında
+en az 1 harf sonunda ise en az bir nokta dahil 5 karakter bulunmalıdır.
+Örn: abc@def.com
+E-posta adresinin doğruluğunu kontrol eden boolean tipinde “epostaKontrol”
+isminde bir fonksiyon yazınız.
+- Bir IP adresi aralarında . olan 4 adet 0-255 arası sayıdan oluşmalıdır.
+Örn: 123.45.67.8
+IP adresinin doğruluğunu kontrol eden boolean tipinde “ipKontrol” isminde bir
+fonksiyon yazınız.
+
+
+
+
+
+
+Soru 4:
+Kare ve Kup adında iki farklı sınıf oluşturunuz.
+Bu sınıflar içerisine aşağıda istenilen görevleri kodlayınız.
+- Kare sınıfında kenar isminde özellik (PROPERTY) tanımlayınız.
+- Kare sınıfında Alan ve Cevre isminde iki fonksiyon yazınız.
+- Kup sınıfı Kare sınıfını miras alsın istiyoruz.
+- Kup sınıfında Alan, Cevre ve Hacim isminde üç fonksiyon yazınız. Alan ve Cevre
+isimli fonsiyonları overrides kullanarak tanımlayınız.
+- Her iki sınıfa da yapıcı ve yıkıcı metod tanımlayınız. Yeni nesne türetildiğinde ve
+yokedildiğinde mesaj versin.
+
+
+
+
+
+
+Soru 5:
+Olay (Event) ve Aşırı Yükleme (Overloading) kavramlarını örnek kodlar üzerinde
+açıklayınız.

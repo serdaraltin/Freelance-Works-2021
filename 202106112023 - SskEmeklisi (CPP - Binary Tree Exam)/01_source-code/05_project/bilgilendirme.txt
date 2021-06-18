@@ -1,0 +1,2 @@
+DevC++ ile derlenmesi isteniyorsa;
+Derleme parametrelerine "-std=c++11" eklenmesi gerekir.

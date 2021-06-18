@@ -1,0 +1,5 @@
+Y:\main\Freelance\mehmeta123\01_source-code\05_project\mehmeta123\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+Y:\main\Freelance\mehmeta123\01_source-code\05_project\mehmeta123\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+Y:\main\Freelance\mehmeta123\01_source-code\05_project\mehmeta123\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+Y:\main\Freelance\mehmeta123\01_source-code\05_project\mehmeta123\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+Y:\main\Freelance\mehmeta123\01_source-code\05_project\mehmeta123\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

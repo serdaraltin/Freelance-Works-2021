@@ -1,0 +1,20 @@
+Merhaba. Proje ödevi C# .Net ortamında yazılacak.
+Microsoft Visual Studio programı ile yapılacak.
+Sql veritabanı ile bağlantısı yapılacak.
+Beni oku tarzında projeyi anlatan bir metin belgesi oluşturulacak.
+Son olarak da ödevi direkt yükleyebileceğim şekilde zip dosyasına sıkıştırılacak hepsi.
+
+YAPILACAK PROJE
+Videoda gösterilen araba kiralama uygulaması yapılacaktır.
+LİNK 1 : https://www.youtube.com/watch?v=_uV6xUZ2-Zk&t=2737s
+LİNK 2 : https://www.youtube.com/watch?v=7ZXARLwITmA&t=1s
+L,NK 3 : https://www.youtube.com/watch?v=kR20sGVNhkY
+
+Not: Yapılacak projede (videoda gösterilen) programdaki sözleşme kısmı yapılmayacaktır.
+Uygulamaya admin girişi için bir kullanıcı adı ve şifre istenecektir. 
+Kullanıcı Adı: alperendaloglu1 Şifre: ahmetalperen olmalıdır.
+Son Teslim Tarihi : 24 Mayıs 2021
+
+Yukarıda belirttiğim şeyler kesin yaptıracağım işlemlerdir.
+Ek olarak kod açıklamaları ve program çıktılarının, veri tabanı bağlantılarının ekran görüntülerini de istiyorum.
+Bu ek olarak belirttiğim işlemler ne kadar ek ücrete tabii olur ? Ona göre bu işlemleri de yaptırmayı düşünüyorum.

@@ -1,0 +1,12 @@
+Tarih  : 2020.05.14
+Garson : Ahmet Bal (12345678910)
+Urun   : Kahve
+Adet   : 2
+Tutar  : 26 TL
+-------------------------------------------
+Tarih  : 2020.05.14
+Garson : Halit Tepe (12345678911)
+Urun   : Kola
+Adet   : 3
+Tutar  : 27 TL
+-------------------------------------------

@@ -1,0 +1,20 @@
+package it;
+
+public class StudentAffairsApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		IStudent std1= new UnderGraduate();
+		std1.setStdNo(2008291014);
+		std1.addLesson("12", "math", 13, 50);
+		std1.addLesson("13", "maths", 4, 50);
+		System.out.println(std1.toString());
+		System.out.println(std1.cumulativeSuccessGrade());
+		IStudent std2= new Graduate();
+		std2.addLesson("12", "math", 14, 80);
+		std2.addLesson("", "maths", 143, 10);
+		System.out.println(std2.toString());
+		System.out.println(std2.cumulativeSuccessGrade());
+	}
+
+}

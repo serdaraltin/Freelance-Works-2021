@@ -1,0 +1,65 @@
+Geliþtirilmesi beklenen proje bir Elektronik Cihaz Arýza Takip Sistemi olacaktýr. Bu proje çalýþmasýnda öðrenciler, basit bir Elektronik Cihaz Arýza Takip Sistemi nin yönetimini kendi geliþtirecekleri Java sýnýflarý aracýlýðý ile gerçekleþtireceklerdir.
+Elektronik Cihaz Arýza Takip Sistemi ile bir firma bünyesinde, müþterilere ait elektronik cihazlarýn takibinin ve yönetiminin yapýlmasý düþünülmektedir. Genel iþleyiþ; Müþteri cihazýný firmaya getirdikten sonra arýza kaydý oluþturulacaktýr, bir tekniksen ilgili arýzaya atanýp arýzanýn çözümü saðlanacaktýr.
+------------------------------------------------------
+
+Projenin gereksinimleri;
+
+Test sýnýfý hariç projenizde en az 3 tane sýnýf bulunmalýdýr. Sýnýflarýn içerikleri öðrenci tarafýndan belirlenecektir.
+? Yaptýðýnýz proje, ilgili proje konusunu içeren tutarlý özellikleri barýndýrmalýdýr. Doðru deðiþken tipleri ve yapýlar kullanýlmalýdýr. Sýnýf iliþkileri, kayýtlarýn program sonlandýrýlana kadar saklanmasý gerektiði gibi konulara dikkat edilmelidir. Gereksiz kod tekrarýndan kaçýnýlmalýdýr. Bir iþlem birden fazla yerde kullanýlýyorsa (tekrar eden iþlemler) metotlara dönüþtürülmelidir.
+? Sýnýflar içerisinde aþaðýdaki özelliklere sahip sýnýf özellikleri tanýmlanmalý ve bu özelliklere metotlarla deðer okuma yazma yapýlmasý gerekmektedir;
+ Object array kullanarak nesne saklama (nesneler object array lerde saklanabilir, array list kullanýmý yasaktýr.)
+? Listeleme,
+? Ekleme,
+? Silme,
+? Deðiþtirme
+ Kalýtým ile alt sýnýf türetme, arayüzden implementation,
+ Metod overloading, overriding
+? Projeler içerisinde nesnelerin birbiriyle iliþkisine (bir sýnýf baþka bir sýnýfýn nesnesi ile iþlem yapabilmelidir) dayanan kapsamlý en az üç iþlem/kural modellenmelidir (çapraz iþlem veya karmaþýk kural). 
+? Sýnýflar içerisinde yazýlan özelliklerin tamamý kapsüllenmelidir. Özelliklere eriþim sadece metodlar ile gerçekleþtirilebilir.
+? Test Sýnýfý oluþturularak tüm sýnýflarýn test edilmesi gerekmektedir.
+
+-------------------------------------------------
+
+
+Elektronik Cihaz Arýza Takip Sistemi uygulamasý için istenen iþlemler:
+
+Örnek olarak 3 tane sýnýfýnýz olduðunu düþünebilirsiniz;
+Ariza, Musteri, Tekniker (bu sýnýflar sadece örnektir, siz kendi uylamanýza uygun olarak gerekli programatik tasarýmý yapmalýsýnýz)
+
+1. Adý girilen teknikerin/teknikerlerin ilgilendiði aktif arýzalarýn listelenmesi
+
+2. Þimdiye kadar alýnmýþ farklý arýza türlerinin listelenmesi
+
+3. En çok arýzasý olan müþterinin bilgilerinin arýzalarýyla birlikte listelenmesi
+
+4. Adý girilen müþterinin aktif arýzalarýn listelenmesi
+
+5. Müþteri silebilme
+ Silinecek müþterinin herhangi bir tekniker üzerine atanmýþ bir aktif arýzasý olmamalý. Eðer varsa bilgi verilip müþteri silme iþlemi yapýlmamalý
+ Herhangi bir teknikere atanmýþ aktif arýzasý yoksa müþteri sistemden tamamen silinmeli ve bu müþteriye ait daha önceki kayýtlar da temizlenmeli
+
+6. Tekniker silebilme
+ Silinecek teknikerin üzerine atanmýþ herhangi bir aktif arýzasý olmamalý. Eðer varsa bilgi verilip bu aktif arýza veya arýzalar rastgele olarak baþka teknikerin/teknikerlerin üzerine atanmalý. Eðer sistemde arýza atanabilecek baþka bir tekniker yoksa silme iþlemi yapýlmamalý. Eðer arýza atanabilecek baþka bir tekniker varsa silme iþlemi yapýlmalý ve silinen bu teknikere ait daha önceki arýzalar eskiArizalar listesine eklenerek saklanmalý
+ Herhangi bir aktif arýzasý yoksa tekniker sistemden tamamen silinmeli (tek olsa bile) ve bu teknikere ait daha önceki arýzalar eskiArizalar listesine eklenerek saklanmalý
+
+7. Üzerine atanan arýzalardan en çok hasýlatý (arýzalardan toplam aldýðý ücret) elde eden teknikerin/teknikerlerin listelenmesi
+
+8. En çok ödeme yapan müþterinin bilgilerinin ve arýzalarýnýn listelenmesi
+
+9. Elde edilen ortalama kazanç ve ortalama arýza tamir süresi bilgilerinin gösterilmesi (Genel)
+
+10.Yukarýda verilen 9. maddedeki bilgilerin sadece adý girilen tekniker/teknikerler için gösterilmesi
+
+11.Yukarýda verilen 9. maddedeki bilgilerin sadece istenilen türdeki arýzalar için gösterilmesi
+
+12.Verilen tarihler arasýndaki bütün çözümlenmiþ arýzalarýn listelenmesi
+
+13.Verilen tarihler arasýndaki bütün çözümlenmemiþ arýzalarýn teknikerleri ile birlikte listelenmesi
+
+
+
+
+
+
+
+

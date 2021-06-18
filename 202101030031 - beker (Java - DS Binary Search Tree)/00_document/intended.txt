@@ -1,0 +1,13 @@
+1. seçenekte öncelikle öğrenciyi tüm yapılarda ekleyeceğiz list binary search tree ve hash id yi key olarak kullanacağız burada ayırt edici o olacak .eklemeden önce id ve adı soyadı alınacak. 
+
+2. seçenekte kullanıcıdan id alacağız ve o bulunuyorsa eklediğimiz tüm yapılardan sileceğiz.
+
+3. seçenekte id alacağız bulunursa bilgileri yazdırıcaz ve tüm yapılarda kaçıncı sırada olduğunu söyleyeceğiz.
+
+4. seçenekte önce kullanıcıdan hangi yapıyı kullanmak istediğini sorup seçtiği yapıya göre tüm öğrencilerin bilgileri listelenecek .
+
+5. seçenekte 1 ismi tek bir defa listeleeceğiz 2. defa bir isim varsa o gösterilmeyecek birde burada soyad gösterilmesine gerek yok.
+
+6. seçenekte her addan kaç tane bulunduğunu gösterceğiz 
+
+7. seçenekte ise benim ismimi ali osman beker yazın id ise 180310100 şeklinde gösterilse yeterli . generik code ile yazılacak .ben burdan düzenleme isteğini gönderiyorum

@@ -1,0 +1,1 @@
+Proje Netbeans 8.2 Java versiyonu ile yapılmıştır.

@@ -1,0 +1,7 @@
+ilk girdide ilgili alanlara sunucunuza ait bilgileri giriniz.
+
+önerilen : 
+	ms sql serverdan boş bir tablo oluşturunuz
+	yeni bir sql server kullanıcısı oluşturunuz
+	bu kullanıcıya tablonun yetkilerini veriniz
+	jupyter notebook ile ilgili dosyayı açın ve sunucu bilgilerinizi giriniz

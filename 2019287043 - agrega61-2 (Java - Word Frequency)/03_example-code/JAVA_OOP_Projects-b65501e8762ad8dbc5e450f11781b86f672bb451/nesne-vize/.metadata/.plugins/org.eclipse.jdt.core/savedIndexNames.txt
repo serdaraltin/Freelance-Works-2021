@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/media/fatih/4602A96202A957A7/new/Study_School/nesne-vize/.metadata/.plugins/org.eclipse.jdt.core
+1081869552.index

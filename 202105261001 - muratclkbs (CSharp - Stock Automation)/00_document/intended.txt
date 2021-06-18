@@ -1,0 +1,6 @@
+-Proje internet üzerinden sunum yapılacak
+-stok takip otomasyonu
+ürün ekleme
+ürün silme
+ürün resmi
+ürün satıldığında stoktan düşecek bunun gibi

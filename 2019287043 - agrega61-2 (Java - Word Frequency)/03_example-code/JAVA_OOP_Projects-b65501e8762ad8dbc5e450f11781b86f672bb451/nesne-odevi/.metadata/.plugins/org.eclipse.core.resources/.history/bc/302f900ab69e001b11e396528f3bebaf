@@ -1,0 +1,19 @@
+package it;
+
+public class Doctorate extends Graduate {
+
+	String underGraduateScholl;
+	String underGraduateDepartment;
+	String postGraduateSchool;
+	String postGraduateDepartment;
+	public Doctorate(String underGraduateScholl,String underGraduateDepartment,String postGraduateSchool, String postGraduateDepartment) {
+		super();
+		this.underGraduateScholl=underGraduateScholl;
+		this.underGraduateDepartment=underGraduateDepartment;
+		this.postGraduateSchool=postGraduateSchool;
+		this.postGraduateDepartment=postGraduateDepartment;
+		
+		
+	}
+
+}

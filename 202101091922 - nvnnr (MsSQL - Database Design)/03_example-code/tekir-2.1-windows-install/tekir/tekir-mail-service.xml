@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: mail-service.xml 62349 2007-04-15 16:48:15Z dimitris@jboss.org $ -->
+<server>
+
+  <!-- ==================================================================== -->
+  <!-- Mail Connection Factory                                              -->
+  <!-- ==================================================================== -->
+
+  <mbean code="org.jboss.mail.MailService"
+         name="jboss:service=TekirMail">
+    <attribute name="JNDIName">java:/TekirMail</attribute>
+    <attribute name="User">nobody</attribute>
+    <attribute name="Password">password</attribute>
+    <attribute name="Configuration">
+      <!-- A test configuration -->
+      <configuration>
+        <!-- Change to your mail server prototocol -->
+        <property name="mail.store.protocol" value="pop3"/>
+        <property name="mail.transport.protocol" value="smtp"/>
+
+        <!-- Change to the user who will receive mail  -->
+        <property name="mail.user" value="sunucu@alanadi.com.tr"/>
+
+        <!-- Change to the mail server  -->
+	<property name="mail.pop3.host" value="mail.alanadi.com.tr"/>
+
+        <!-- Change to the SMTP gateway server -->
+	<property name="mail.smtp.host" value="mail.alanadi.com.tr"/>
+        
+        <!-- The mail server port -->
+        <property name="mail.smtp.port" value="25"/>
+        
+        <!-- Change to the address mail will be from  -->
+	<property name="mail.from" value="sunucu@alanadi.com.tr"/>
+
+        <!-- Enable debugging output from the javamail classes -->
+        <property name="mail.debug" value="false"/>
+      </configuration>
+    </attribute>
+    <depends>jboss:service=Naming</depends>
+  </mbean>
+
+</server>

@@ -1,0 +1,3 @@
+Visual Studio 2017
+MSSQL Server 2012
+kullanılarak hazırlanmıştır.

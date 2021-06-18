@@ -1,0 +1,14 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.HashSet;
+
+public class MyHashSet<T> extends HashSet<T> {
+	public void addPTokens(String string,MyList<String> p2Tokens,MyList<String> p3Tokens)
+	{
+		this.addAll((Collection<? extends T>) string);
+		this.addAll((T) p2Tokens);
+		this.addAll((T) p3Tokens);
+	}
+}

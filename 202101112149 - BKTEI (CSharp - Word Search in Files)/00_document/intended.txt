@@ -1,0 +1,3 @@
+Merhaba ödevim şudur
+Konsolda kendisine parametre olarak verilen klasör içerisindeki metin dosyalarında yine parametre olarak verilen kelimeyi bulan ve hangi dosyalar içerisinde o kelimenin geçtiğini söyleyen C# programını yazmanız gerekmektedir.
+13 ocak icin lazım

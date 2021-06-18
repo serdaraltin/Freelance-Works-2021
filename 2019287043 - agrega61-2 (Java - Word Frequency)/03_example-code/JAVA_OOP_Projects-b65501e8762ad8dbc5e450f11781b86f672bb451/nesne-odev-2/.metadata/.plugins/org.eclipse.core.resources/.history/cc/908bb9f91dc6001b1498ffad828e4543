@@ -1,0 +1,29 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
+public abstract class OdevApplication{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stu
+		
+		MyList<String> myList = new MyList<String>();
+		Scanner scanner = new Scanner(System.in);
+		String p1 = scanner.nextLine();
+		String p2 = scanner.nextLine();
+		String p3 = scanner.nextLine();
+		myList.add(p1);
+		myList.add(p2);
+		myList.add(p3);
+		MyList<String> p1Tokens= new MyList<String>();
+		p1Tokens.tokenizeValues(p1);
+		MyList<String> p2Tokens= new MyList<String>();
+		p2Tokens.tokenizeValues(p2);
+		MyList<String> p3Tokens= new MyList<String>();
+		p3Tokens.tokenizeValues(p3);
+		p1Tokens.printValues("Values:");
+	}
+
+}

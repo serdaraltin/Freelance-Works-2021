@@ -1,0 +1,23 @@
+bilgiler tablo olarak verilmiştir, bu tabloyu ister oklarla ister word ortamında tablolarla
+gösterebilirsiniz.
+tabloda sırasıyla infix den postfix e dönüşüm adım adım listelenmiştir.
+
+infix   : (a+b)*(c-d)/e 
+postfix : ab+cd-*e/
+
+
+Sr. no.	Expression	Stack	Postfix
+0		(			((	
+1		a			((		a
+2		+			((+		a
+3		b			((+		ab
+4		)			(		ab+
+5		*			(*		ab+
+6		(			(*(		ab+
+7		c			(*(		ab+c
+8		-			(*(-	ab+c
+9		d			(*(-	ab+cd
+10		)			(*		ab+cd-
+11		/			(/		ab+cd-*
+12		e			(/		ab+cd-*e
+13		)					ab+cd-*e/

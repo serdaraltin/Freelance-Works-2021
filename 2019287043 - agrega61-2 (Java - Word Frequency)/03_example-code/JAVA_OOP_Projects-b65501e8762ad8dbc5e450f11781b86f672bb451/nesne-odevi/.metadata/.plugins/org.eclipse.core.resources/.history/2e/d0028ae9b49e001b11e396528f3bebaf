@@ -1,0 +1,9 @@
+package it;
+
+public interface IStudent extends IClasses {
+	
+	double cumulativeSuccessGrade();
+	void setStdNo(int stdNo);
+	void setStdName(String stdName);
+	void setStdSirName(String stdSirName);
+}

@@ -1,0 +1,126 @@
+﻿Kullanılan modül ve kurulumu
+
+
+veritabanı bağlantısı için pymssql modülü kullanılmıştır ve pip aracı ile yüklenebilmektedir.
+Python 3.x kullanılmaktadır.
+
+
+Tüm kodların çalıştırılması
+
+
+Tüm kodlar tek seferde çalıştırılmak istendiğinde;
+Menu > Cell > Run All seçeneği seçilmelidir.
+Tüm kodlar çalıştırıldığında sonuç olarak veritabanı boş olacaktır, çünkü oluşturulan herşey sonrasında siliniyor.
+
+
+
+Sunucu bağlantısı
+
+Öncelikle ilgili modül “import” edilmeli (pymssql)
+Veritabanı bağlantısı için sırasıyla;
+    • Sunucu adresi
+    • Veritabanı adı
+    • Kullanıcı adı
+    • Kullanıcı parolası
+Bilgileri ilgili alanlara doldurulmaktadır.
+
+pymssql modülünün connect methoduna ilgili değerler parametre olarak geçirildikten sonra dönen sonuç bir değişkene atanmıştır (conn).
+
+Yapılan işlemler için bir imleç tanımlaması olarak conn.cursor() methodundan dönen değer bir değişkene atanmıştır (cursor).
+
+
+
+Tablo oluşturma
+
+
+Örnek olarak;
+
+İlgili tablonun oluşturulması için ilgili sql komutu daha önceden oluşturulmuş bağlantı nesnesinin execute methoduna parametre olarak geçirilmektedir.
+
+Daha sonra ilgili sql sorgusunun çalıştırımlası için bağlantı nesnesinin commit methodu çağrılır, böylece sql komutu sunucuda çalıştırılır.
+
+
+
+Tabloya kayıt ekleme
+
+
+Örnek olarak;
+
+İlgili tabloya kayıt eklenmesi için ilgili sql sorgusu komutu execute methoduna parametre olarak geçirildikten sonra commit methodu çağrılarak ilgili kayıt tabloya eklenmektedir.
+
+Burada ilgili tablonun istenilen kolonları seçilerek o kolonlara uygun veriler işlenmiştir.
+
+
+
+
+
+
+
+Tablodaki kaydı güncelleme
+
+Örnek olarak;
+
+İlgili tabloyadaki ilgili id değerine sahip kaydın verilerinin güncellenmesi.
+Bu işlem sırasında hangi kaydın güncelleneceği bilgisi id kolonuyla belirlenmiştir. İstenilen kolonlara ait bilgiler güncellenebilmektedir.
+
+Burada ilgili tablonun istenilen kolonları seçilerek o kolonlara uygun veriler işlenmiştir.
+
+
+
+Tablodan kayıt silme
+
+
+Örnek olarak;
+
+İlgili tablodan ilgili id değerine sahip kaydın verilerinin silinmesi.
+Bu işlem sırasında hangi kaydın silineceği bilgisi id kolonuyla belirlenmiştir.
+
+
+
+Tablo silme
+
+
+Örnek olarak;
+
+İlgili tablo adına bağlı olarak tablonun veritabanından silinmesi işlemi.
+Tablo ile birlikte tablodaki kayıtlar da silinmektedir.
+
+Tablodaki kolon başlıklarını büyük harf yapma
+
+
+Örnek olarak;
+
+İlgili tablonun önce oluşturulması ardından kolon isimlerinin tekrardan isimlendirilmesi işlemi ile kolon başlıklarının büyük harflere çevirilmesi işlemi.
+
+
+
+Kullanılan Teknolojiler
+
+    • Programlama Dili : Python 3.x
+    • Editor           : Jupyter Notebook
+    • Sunucu           : Microsoft SQL Server
+    • İşletim Sistemi  : Microsoft Windows 10
+    • Modüller         : pymssql
+    • Tasarım Aracı    : Drawio
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hazırlayan
+Ad Soyad
+No

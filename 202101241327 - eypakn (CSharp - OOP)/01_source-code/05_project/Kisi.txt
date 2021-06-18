@@ -1,0 +1,41 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace eypakn
+{
+    class Kisi
+    {
+        private string tcNo;
+        private string ad;
+        private string soyad;
+
+        public Kisi()
+        {
+
+        }
+        public Kisi(string _tcno, string _ad, string _soyad)
+        {
+            tcNo = _tcno;
+            ad = _ad;
+            soyad = _soyad;
+        }
+        public string TcNo
+        {
+            get { return tcNo; }
+            set { tcNo = value; }
+        }
+        public string Ad
+        {
+            get { return ad; }
+            set { ad = value; }
+        }
+
+        public string Soyad
+        {
+            get { return soyad; }
+            set { soyad = value; }
+        }
+
+    }
+}

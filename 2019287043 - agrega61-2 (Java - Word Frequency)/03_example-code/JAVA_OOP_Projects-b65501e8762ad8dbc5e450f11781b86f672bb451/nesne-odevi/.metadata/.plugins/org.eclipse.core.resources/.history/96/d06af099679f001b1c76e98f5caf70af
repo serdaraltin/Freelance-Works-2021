@@ -1,0 +1,51 @@
+package itDepartment;
+
+public class Doctorate extends Graduate {
+
+	private String underGraduateScholl;
+	private String underGraduateDepartment;
+	private String postGraduateSchool;
+	private String postGraduateDepartment;
+	public Doctorate(String underGraduateScholl,String underGraduateDepartment,String postGraduateSchool, String postGraduateDepartment) {
+		super();
+		this.setUnderGraduateScholl(underGraduateScholl);
+		this.setUnderGraduateDepartment(underGraduateDepartment);
+		this.setPostGraduateSchool(postGraduateSchool);
+		this.setPostGraduateDepartment(postGraduateDepartment);
+		
+		
+	}
+	@Override
+	public String toString() {
+		return "Doctorate [underGraduateScholl=" + underGraduateScholl + ", underGraduateDepartment="
+				+ underGraduateDepartment + ", postGraduateSchool=" + postGraduateSchool + ", postGraduateDepartment="
+				+ postGraduateDepartment + ", stdNo=" + stdNo + ", stdName=" + stdName + ", stdSirName=" + stdSirName
+				+ ", stdDepartment=" + stdDepartment + ", lessonNo=" + lessonNo + ", lessonName=" + lessonName
+				+ ", lessonEcts=" + lessonEcts + ", examGrade=" + examGrade + "]";
+	}
+	public String getUnderGraduateScholl() {
+		return underGraduateScholl;
+	}
+	public void setUnderGraduateScholl(String underGraduateScholl) {
+		this.underGraduateScholl = underGraduateScholl;
+	}
+	public String getUnderGraduateDepartment() {
+		return underGraduateDepartment;
+	}
+	public void setUnderGraduateDepartment(String underGraduateDepartment) {
+		this.underGraduateDepartment = underGraduateDepartment;
+	}
+	public String getPostGraduateSchool() {
+		return postGraduateSchool;
+	}
+	public void setPostGraduateSchool(String postGraduateSchool) {
+		this.postGraduateSchool = postGraduateSchool;
+	}
+	public String getPostGraduateDepartment() {
+		return postGraduateDepartment;
+	}
+	public void setPostGraduateDepartment(String postGraduateDepartment) {
+		this.postGraduateDepartment = postGraduateDepartment;
+	}
+
+}

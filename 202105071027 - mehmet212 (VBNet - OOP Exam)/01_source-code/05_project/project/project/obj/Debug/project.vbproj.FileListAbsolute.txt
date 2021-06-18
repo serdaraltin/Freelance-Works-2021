@@ -1,0 +1,9 @@
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\project\bin\Debug\project.exe
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\project\bin\Debug\project.pdb
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\project\bin\Debug\project.xml
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\project\obj\Debug\project.vbprojResolveAssemblyReference.cache
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\project\obj\Debug\project.Resources.resources
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\project\obj\Debug\project.vbproj.GenerateResource.Cache
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\project\obj\Debug\project.exe
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\project\obj\Debug\project.xml
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\project\obj\Debug\project.pdb

@@ -1,0 +1,101 @@
+﻿JAVA PROJESİ
+PAKETLER
+
+Controller
+    1. Controller_Bul
+    2. Controller_Degistir
+    3. Controller_Dosya
+    4. Controller_Yazim
+Interface
+    1. Interface_Bul
+    2. Interface_Degistir
+    3. Interface_Dosya
+    4. Interface_Yazim
+
+Model
+    1. Model_Bul
+    2. Model_Degistir
+    3. Model_Kelime
+
+View
+    1. View_AnaPencere
+    2. View_Bul
+    3. View_Degistir
+
+
+Controller_Bul
+Bu sınıf içerisinde aranan değerin bulunması, aranan değerin sonraki eşleşmelerinin bulunması işlemleri yapılmaktadır.
+
+Controller_Degistir
+Bu sınıf içerisinde aranan değerin başka bir değerle değiştirilmesi işlemleri yapılmaktadır.
+Controller_Dosya
+Bu sınıf içerisinde dosya işlemleri gerçekleştirilmektedir. Okuma, yazma, kapatma vs.
+Controller_Yazim
+Bu sınıf içerisinde yazım hatalarının kontrölü ve düzeltilmesi işlemleri gerçekleştirilmektedir.
+Interface_Bul
+Bu sınıf içerisinde Controller_Bul sınıfı için Interface(Arayüz) tanımlamaları yapılmıştır.
+Interface_Degistir
+Bu sınıf içerisinde Controller_Degistir sınıfı için Interface(Arayüz) tanımlamaları yapılmıştır.
+Interface_Dosya
+Bu sınıf içerisinde Controller_Dosya sınıfı için Interface(Arayüz) tanımlamaları yapılmıştır.
+Interface_Yazim
+Bu sınıf içerisinde Controller_Yazim sınıfı için Interface(Arayüz) tanımlamaları yapılmıştır.
+Model_Bul
+Bu sınıf içerisinde Controller_Bul sınıfında ve ilgili yerlerde kullanılması için bir bulma işleminde gerekli olan niteliklerin modellenmesi sağlanmıştır. Kapsülleme ve kurucu methodlar yanında toString methodu için ezici bir method daha oluşturulmuştur.
+Model_Degistir
+Bu sınıf içerisinde Controller_Degistir sınıfında ve ilgili yerlerde kullanılması için bir bulma işleminde gerekli olan niteliklerin modellenmesi sağlanmıştır. Kapsülleme ve kurucu methodlar yanında toString methodu için ezici bir method daha oluşturulmuştur.
+Model_Kelime
+Ayraçların ve birleştiricilerin tanımlamaları yapılmıştır.
+
+View_AnaPencere
+Bu sınıf içerisinde ana arayüz penceresinin tanımlamaları ve yapılandırması işlemleri yapılmıştır.
+View_Bul
+Bu sınıf içerisinde yan arayüz bul penceresinin tanımlamaları ve yapılandırması işlemleri yapılmıştır.
+View_Degistir
+Bu sınıf içerisinde yan arayüz değiştir penceresinin tanımlamaları ve yapılandırması işlemleri yapılmıştır.
+
+
+
+
+
+
+
+
+
+
+
+
+Ana Pencere
+
+BİRİM TESTLERİ
+
+
+
+
+
+
+Birim Testleri Project-Notepad >> Test Packages >> <default package> > NotepadTest altında gerçekleştirilmiştir.
+
+
+
+
+
+
+
+
+
+Gerçekleştirilen Birim Testleri
+    • Bul methodunun doğru çalışmasının kontrolü için BulKontrol
+    • Değiştir methodunun doğru çalışması için DegistirKontrol
+    • HatalariDuzelt methodunun doğru çalışması için YazimHataKontrol
+
+BulKontrol
+Bu test methodunda önceden hazırlanmış bir metin içerisinde ilgili değerin bulunup bulunmadığı test edilmektedir.
+
+DegistirKontrol
+Bu test methodunda önceden hazırlanmış bir metin içerisinde ilgili değerin değiştirilip ardından değiştirilmiş halinin bulunup bulunmadığı test edilmektedir.
+
+YazimHatasiKontrol
+Bu test methodunda önceden verilen sözcük listesinden rastgele seçilen 3 sözcük bir metin haline getirilip ardından 2 sözcükte değiştirilme yapılarak hataların tespiti ve ardından düzeltilmesi işlemi test edilmiştir.
+UML DİAGRAMI
+

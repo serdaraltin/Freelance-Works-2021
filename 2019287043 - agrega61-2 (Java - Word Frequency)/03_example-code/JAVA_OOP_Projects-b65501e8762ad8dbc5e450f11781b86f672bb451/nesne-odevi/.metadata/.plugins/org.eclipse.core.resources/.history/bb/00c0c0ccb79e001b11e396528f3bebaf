@@ -1,0 +1,5 @@
+package IT;
+
+public class Graduate extends UnderGraduate {
+// I didn't  use it
+}

@@ -1,0 +1,9 @@
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru3\bin\Debug\soru3.exe
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru3\bin\Debug\soru3.pdb
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru3\bin\Debug\soru3.xml
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru3\obj\Debug\soru3.vbprojResolveAssemblyReference.cache
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru3\obj\Debug\soru3.Resources.resources
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru3\obj\Debug\soru3.vbproj.GenerateResource.Cache
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru3\obj\Debug\soru3.exe
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru3\obj\Debug\soru3.xml
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru3\obj\Debug\soru3.pdb

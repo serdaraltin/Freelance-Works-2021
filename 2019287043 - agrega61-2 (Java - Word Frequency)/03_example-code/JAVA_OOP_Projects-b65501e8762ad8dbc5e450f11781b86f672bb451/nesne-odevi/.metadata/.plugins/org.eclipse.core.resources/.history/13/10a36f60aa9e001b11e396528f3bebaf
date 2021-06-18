@@ -1,0 +1,6 @@
+package it;
+
+
+public interface IStudent implements IClasses {
+	double cumulativeSuccessGrade();
+}

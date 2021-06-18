@@ -1,0 +1,12 @@
+Taş=0, kağıt=1, makas=2, kertenkele=3, spock=4
+
+(2,1) = 2 makas kağıdı kesiyor 
+(1,0) = 1 kağıt taşı kaplıyor 
+(0,3) = 0 taş kertenkeleyi eziyor
+(3,4) = 3 kertenkele Spock’ı zehirliyor
+(4,2) = 4 Spock makası kırıyor
+(2,3) = 2 makas kertenkelenin başını kesiyor
+(3,1) = 3 kertenkele kağıdı yiyor
+(1,4) = 1 kağıt Spock’ı çürütüyor
+(4,0) = 4 Spock taşı buharlaştırıyor
+(2,0) = 0 taş makası kırıyor

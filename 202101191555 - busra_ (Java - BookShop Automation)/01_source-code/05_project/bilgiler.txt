@@ -1,0 +1,8 @@
+yönetici girişi
+admin/12345
+
+personel girişi
+ahmet/12345
+
+
+birkaç test kaydı eklenmiştir, isterseniz silebilirsiniz. 

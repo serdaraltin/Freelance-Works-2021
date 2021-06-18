@@ -1,0 +1,17 @@
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\obj\Debug\HotelAutomation.csproj.GenerateResource.Cache
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\obj\Debug\HotelAutomation.Properties.Resources.resources
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\obj\Debug\HotelAutomation.Form_About.resources
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\obj\Debug\HotelAutomation.Form_MainPage.resources
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\obj\Debug\HotelAutomation.Form_Login.resources
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\obj\Debug\HotelAutomation.Form_Operation.resources
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\obj\Debug\HotelAutomation.Form_DBConnection.resources
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\bin\Debug\HotelAutomation.exe.config
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\bin\Debug\HotelAutomation.exe
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\bin\Debug\HotelAutomation.pdb
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\obj\Debug\HotelAutomation.exe
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\obj\Debug\HotelAutomation.pdb
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\obj\Debug\HotelAutomation.Form_Employees.resources
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\obj\Debug\HotelAutomation.Form_Rezarvation.resources
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\obj\Debug\HotelAutomation.Form_Customer.resources
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\obj\Debug\HotelAutomation.Form_Room.resources
+X:\main\Freelance\#complated\202103281404 - deynasky (CSharp - Stock Automation)\01_source-code\05_project\StockAutomation\StockAutomation\obj\Debug\HotelAutomation.Form_Users.resources

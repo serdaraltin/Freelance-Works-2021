@@ -1,0 +1,28 @@
+a M kümesinin bir niteliğidir.
+a M kümesinin bir kısmi anahtar niteliğidir.
+b M kümasinin bir niteliğidir.
+b M kümesinin anahtar niteliğidir.
+
+c N kümesinin bir niteliğidir.
+d N kümesinin bir niteliğidir.
+
+f P kümesinin bir niteliğidir.
+g P kümesinin bir niteliğidir.
+
+j U kümesinin bir niteliğidir.
+h U kümesinin bir niteliğidir.
+h U kümesinin bit türetilen niteliğidir.
+i U kümesinin bir niteliğidir.
+i U kümesinin anahtar niteliğidir.
+
+e Q ilikşki kümesinin tanımlayıcı niteliğidir.
+
+R, M ve N arasındaki ilişki kümesidir.
+Q, M ve P arasındaki ilişki kümesidir.
+T, P ve U arasındaki ilişki kümesidir.
+
+N zayıf bir varlıktır.
+
+U ve T aralarında m-n (Çoktan-çoğa) şeklinde ilişkilidir.
+M ve P aralarında 1-1 (Bire-bir) şeklinde ilişkilidir.
+M ve N aralarında 1-? (Bire-?) şeklinde ilişkilidir.

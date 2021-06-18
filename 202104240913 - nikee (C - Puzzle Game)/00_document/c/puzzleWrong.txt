@@ -1,0 +1,8 @@
+5 5 7
+H 1 1 MILK White liquid produced by the mammals
+H 2 1 IN Used to indicate inclusion within space, a place, or limits
+H 3 3 BUS A road vehicle designed to carry many passengers
+H 5 3 DAN The name of a famous author whose surname is Brown
+V 1 1 MARS Red planet
+V 3 3 BAD Opposite of good
+V 2 5 ISBN International Standard Book Number

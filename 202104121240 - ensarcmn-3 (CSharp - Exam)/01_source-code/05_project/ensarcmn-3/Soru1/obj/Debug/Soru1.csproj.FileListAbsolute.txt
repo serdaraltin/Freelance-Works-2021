@@ -1,0 +1,5 @@
+Y:\main\Freelance\ensarcmn-3\01_source-code\05_project\ensarcmn-3\Soru1\bin\Debug\Soru1.exe
+Y:\main\Freelance\ensarcmn-3\01_source-code\05_project\ensarcmn-3\Soru1\bin\Debug\Soru1.pdb
+Y:\main\Freelance\ensarcmn-3\01_source-code\05_project\ensarcmn-3\Soru1\obj\Debug\Soru1.csprojResolveAssemblyReference.cache
+Y:\main\Freelance\ensarcmn-3\01_source-code\05_project\ensarcmn-3\Soru1\obj\Debug\Soru1.exe
+Y:\main\Freelance\ensarcmn-3\01_source-code\05_project\ensarcmn-3\Soru1\obj\Debug\Soru1.pdb

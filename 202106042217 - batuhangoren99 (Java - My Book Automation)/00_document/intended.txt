@@ -1,0 +1,9 @@
+Kısa bir özet geçeyim .netbeans üzerinden jframe koduyla gui designı içeren bir kodlama olucak.
+Göndermiş olduğum .txt dosyasında kitap bilgileri yer almakta.
+Aynı bu şekilde java üzerinden .txt dosyası oluşturup
+bu kitap bilgilerini projede belirttiği gibi kod üzerinden
+yeni bir txt dosyasına eklemeniz gerekiyor veişlemleri yapmanız gerekiyor.
+BookID için textfield dan doldurma yapılmamalı sadece o oto.
+veri girildiğinde artmalı.
+Bu fotoları görsel açma kısmında kullanabilirsiniz.
+Sorunuz olursa bekliyorum.Şimdiden teşekkürler kolay gelsin.

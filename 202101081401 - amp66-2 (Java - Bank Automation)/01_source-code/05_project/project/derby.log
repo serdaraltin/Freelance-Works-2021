@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jan 08 02:47:22 TRT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-df3f-6454-00000d5c35f0 
+on database directory /home/main/FreeLance/#completed/202101042220 - amp66 (Java - Bank-Atm Automation)/01_source-code/05_project/project/database with class loader sun.misc.Launcher$AppClassLoader@7d4991ad 
+Loaded from file:/home/main/FreeLance/%23completed/202101042220%20-%20amp66%20(Java%20-%20Bank-Atm%20Automation)/01_source-code/05_project/project/lib/derby.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_275-8u275-b01-0ubuntu1~20.04-b01
+user.dir=/home/main/FreeLance/#completed/202101042220 - amp66 (Java - Bank-Atm Automation)/01_source-code/05_project/project
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-59-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

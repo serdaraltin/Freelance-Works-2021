@@ -1,0 +1,16 @@
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\obj\Debug\Project.Form_About.resources
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\obj\Debug\Project.Form_Book.resources
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\obj\Debug\Project.Form_Customer.resources
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\obj\Debug\Project.Form_DBConnection.resources
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\obj\Debug\Project.Form_Login.resources
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\obj\Debug\Project.Form_MainPage.resources
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\obj\Debug\Project.Form_Operation.resources
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\obj\Debug\Project.Form_OperationCustomer.resources
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\obj\Debug\Project.Form_Sales.resources
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\obj\Debug\Project.Form_Users.resources
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\obj\Debug\BookShopAutomation.Properties.Resources.resources
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\bin\Debug\BookShopAutomation.exe
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\bin\Debug\BookShopAutomation.pdb
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\obj\Debug\BookShopAutomation.exe
+C:\Users\Main\Desktop\BookShopAutomation\BookShopAutomation\obj\Debug\BookShopAutomation.pdb

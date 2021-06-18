@@ -1,0 +1,30 @@
+void listeyi_hash_tablosuna_donusturme(struct hash_tablosu *htable, struct cell **liste_basi)
+{
+    struct cell *onceki;
+    for (; *liste_basi;)
+    {
+        int hash_index = hash((*liste_basi)->anahtar, htable->multiplier, htable->tablo_uzunlugu);
+        if (*liste_basi == NULL)
+        {
+            strcpy((*liste_basi)->anahtar, (htable->tablo_basi+hash_index)->header->anahtar);
+            (*liste_basi)->next = NULL;
+            (htable->tablo_basi + hash_index)->count++;
+        }
+        else if (strcmp((*liste_basi)->anahtar, (htable->tablo_basi+hash_index)->header->anahtar))
+        {
+            for(; *liste_basi == NULL; ){
+                  *liste_basi = (*liste_basi)->next;
+            }
+            strcpy((*liste_basi)->anahtar,(htable->tablo_basi+hash_index)->header->anahtar);
+            (*liste_basi)->next = NULL;
+             (htable->tablo_basi + hash_index)->count++;
+        }
+        else
+            sonuc = 0;
+
+        onceki = *liste_basi;
+        *liste_basi = (*liste_basi)->next;
+        free(onceki->anahtar);
+        free(onceki);
+    }
+}

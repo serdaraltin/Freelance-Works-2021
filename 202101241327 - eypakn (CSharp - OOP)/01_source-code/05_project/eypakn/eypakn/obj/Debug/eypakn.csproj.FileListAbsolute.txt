@@ -1,0 +1,5 @@
+G:\FreeLance\mehmetrt\01_source-code\05_project\eypakn\eypakn\bin\Debug\eypakn.exe
+G:\FreeLance\mehmetrt\01_source-code\05_project\eypakn\eypakn\bin\Debug\eypakn.pdb
+G:\FreeLance\mehmetrt\01_source-code\05_project\eypakn\eypakn\obj\Debug\eypakn.csprojResolveAssemblyReference.cache
+G:\FreeLance\mehmetrt\01_source-code\05_project\eypakn\eypakn\obj\Debug\eypakn.exe
+G:\FreeLance\mehmetrt\01_source-code\05_project\eypakn\eypakn\obj\Debug\eypakn.pdb

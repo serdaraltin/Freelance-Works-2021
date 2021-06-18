@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C011134-4497-4FC6-96EC-E4ECC95D427C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>VBOtomasyon.My.MyApplication</StartupObject>
+    <RootNamespace>VBOtomasyon</RootNamespace>
+    <AssemblyName>VBOtomasyon</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>VBOtomasyon.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>VBOtomasyon.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.Designer.vb">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class_Islemler.vb" />
+    <Compile Include="Form_Anasayfa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Anasayfa.Designer.vb">
+      <DependentUpon>Form_Anasayfa.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Giris.Designer.vb">
+      <DependentUpon>Form_Giris.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Giris.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Gonderi.Designer.vb">
+      <DependentUpon>Form_Gonderi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Gonderi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_GonderiAra.Designer.vb">
+      <DependentUpon>Form_GonderiAra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_GonderiAra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_GonderilenPaket.Designer.vb">
+      <DependentUpon>Form_GonderilenPaket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_GonderilenPaket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Musteri.Designer.vb">
+      <DependentUpon>Form_Musteri.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Musteri.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MusteriSec.Designer.vb">
+      <DependentUpon>Form_MusteriSec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MusteriSec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Personel.Designer.vb">
+      <DependentUpon>Form_Personel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Personel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_SifreYenile.Designer.vb">
+      <DependentUpon>Form_SifreYenile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_SifreYenile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Sube.Designer.vb">
+      <DependentUpon>Form_Sube.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Sube.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Tur.Designer.vb">
+      <DependentUpon>Form_Tur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Tur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Anasayfa.resx">
+      <DependentUpon>Form_Anasayfa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Giris.resx">
+      <DependentUpon>Form_Giris.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Gonderi.resx">
+      <DependentUpon>Form_Gonderi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_GonderiAra.resx">
+      <DependentUpon>Form_GonderiAra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_GonderilenPaket.resx">
+      <DependentUpon>Form_GonderilenPaket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Musteri.resx">
+      <DependentUpon>Form_Musteri.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MusteriSec.resx">
+      <DependentUpon>Form_MusteriSec.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Personel.resx">
+      <DependentUpon>Form_Personel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_SifreYenile.resx">
+      <DependentUpon>Form_SifreYenile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Sube.resx">
+      <DependentUpon>Form_Sube.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Tur.resx">
+      <DependentUpon>Form_Tur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

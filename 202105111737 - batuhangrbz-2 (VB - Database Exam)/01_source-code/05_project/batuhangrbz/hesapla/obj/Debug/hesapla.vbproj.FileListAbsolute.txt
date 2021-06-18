@@ -1,0 +1,7 @@
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\hesapla\bin\Debug\hesapla.dll
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\hesapla\bin\Debug\hesapla.pdb
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\hesapla\bin\Debug\hesapla.xml
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\hesapla\obj\Debug\hesapla.vbprojResolveAssemblyReference.cache
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\hesapla\obj\Debug\hesapla.dll
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\hesapla\obj\Debug\hesapla.xml
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\hesapla\obj\Debug\hesapla.pdb

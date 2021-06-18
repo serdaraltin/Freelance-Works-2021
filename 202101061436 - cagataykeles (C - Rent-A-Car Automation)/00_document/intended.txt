@@ -1,0 +1,18 @@
+ARAÇ KİRALAMA •
+Görev, bir araba kiralama şirketi için bir yönetim programı yazmaktır. Program aşağıdaki işlevleri sağlamalıdır:
+
+1. Araç yönetimi (marka, model, yapım yılı, günlük fiyat, özellikler (maks. 3))
+	a. Araç kaydedin
+	b. Araç listesini listeleyin
+	c. Aracı silin
+
+2. Müşteri yönetimi (ad ve soyad, doğum tarihi, adres, sürücü belgesi bilgileri)
+	a. Yeni bir müşteri oluşturun
+	b. Müşterileri listeleyin
+
+3. Araba siparişleri (müşteri, araba, tarihten bugüne)
+	a. Kiralanan araçların listesi
+	b. Mevcut araçları listeleyin
+	c. Araç kiralayın
+
+Yazılacak olan programın ne profesyonel ne de acemi bir şekilde yazılmasını istiyorum. Ortalama bir C kullanıcısının yapabileceği bir program olması gerek. Programda LinkList kullanılmazsa daha iyi olur. Bunların haricinde programda her şeyin kullanımı serbest. Acaba Perşmebe gecesine kadar program elimde olur mu? Ve ne kadar ücrete yaparsınız? Teşekkürler.

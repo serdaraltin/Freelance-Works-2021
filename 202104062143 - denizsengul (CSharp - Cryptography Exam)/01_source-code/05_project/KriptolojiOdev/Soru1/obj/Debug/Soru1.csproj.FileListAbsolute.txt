@@ -1,0 +1,8 @@
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru1\bin\Debug\Soru1.exe
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru1\bin\Debug\Soru1.pdb
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru1\obj\Debug\Soru1.csprojResolveAssemblyReference.cache
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru1\obj\Debug\Soru1.Soru1.resources
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru1\obj\Debug\Soru1.Properties.Resources.resources
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru1\obj\Debug\Soru1.csproj.GenerateResource.Cache
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru1\obj\Debug\Soru1.exe
+Y:\main\Freelance\denizsengul\01_source-code\05_project\KriptolojiOdev\Soru1\obj\Debug\Soru1.pdb

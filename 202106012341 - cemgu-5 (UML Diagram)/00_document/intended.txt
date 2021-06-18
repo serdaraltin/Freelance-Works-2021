@@ -1,0 +1,72 @@
+1.soruda istenen sıralanan :
+movies (filimler)
+artors (artistler)
+theaters (salonlar)
+tickets (biletler)
+customer(müşteri)
+
+Sınıflar arasında en az bir anlamlı ilişki, bir anlamlı genelleme, bir anlamlı toplama oluşturun. böyle denmiş.
+
+2.soruda ;
+Bilet satın almak, 
+1) bir film seçmeyi,
+2) müsait koltukları listelemeyi,
+3) koltuk seçmeyi ve
+4) ödeme yapmayı ve ödeme başarılı olursa koltuk statüsünü satmayı içeriyor.
+
+Bilet iadesi,
+1) bilet no ile bilet bulmayı,
+2) geri ödeme yapmak
+3) koltuğu yeniden uygun hale getirmek.
+
+
+1)---------
+
+Filmler
+sanatçılar 
+tiyatrolar
+biletler 
+müşteri
+
+Sınıflar arasında en az bir anlamlı ilişki, bir anlamlı genelleme, bir anlamlı toplama oluşturun.
+Gerekirse yeni sınıflar oluşturabilirsiniz.
+
+
+
+2)---------
+Sinema bileti alan, kullanan (giren) ve iade eden (iptal ve iade eden), bilet iade eden müşteriler için bir kullanım senaryosu diyagramı tasarlayın
+
+Bilet satın almak, 
+(i) bir film seçmeyi, 
+(ii) müsait koltukları listelemeyi, 
+(iii) koltuk seçmeyi ve 
+(iv) ödeme yapmayı ve ödeme başarılı olursa koltuk statüsünü satmayı içerir.
+
+Bilet iadesi, 
+(i) bilet no ile bilet bulmayı,
+(ii) geri ödeme yapmak 
+(iii) koltuğu yeniden uygun hale getirmeyi içerir.
+
+Aktörler ve kullanım durumları arasında uygun ilişkilendirmeler oluşturun. En az bir anlamlı <<include>> ve en az bir <<extend>> ilişkisi oluşturun.
+Gerekirse fazladan aktörler tanımlayabilir veya vakaları (görevleri) kullanabilirsiniz.
+
+3) Yukarıdaki film uygulamasında film nesneleri için bir durum diyagramı tasarlayın. Film şu durumlardan birinde olabilir:
+
+• İn- yapımı (film yapılıyor, yapım)
+• Sinemalarda (sinemalarda sinemalarda, sinemalarda oynuyorlar)
+• Video içi (film sinemalardan sonra videoda satıştadır)
+• Piyasa dışı (film yok hiçbir yerde, filim artık bulunamıyor. Videodan da yaşayabilmiş)
+
+Etkinlikler
+• Yapımı tamamlandı (film yapımı tamamlandığında sinemaya gitti)
+• Kapalı salonlar (sinemalardan sonra film videoya geçer)
+• Off-video (video satışlarından sonra film tamamen piyasadan çekilmiştir.
+film artık hiçbir yerde bulunamıyor.
+Videodan da kalabilmiş)
+
+4 (2 puan) 
+2. sorudaki bilet alma durumu için bir sıralama şeması yapın. 1. sorudaki sınıf diyagramından sınıfları kullanacaksınız. Gerekirse ekstra sınıfları kullanabilirsiniz. Ayrıca soruyu cevaplamak için ihtiyacınız olan yöntemlere de karar vereceksiniz.
+
+5) 
+
+class2. sorudaki bilet satın alma kullanım örneğini bir etkinlik diyagramı çizin.

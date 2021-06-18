@@ -1,0 +1,4 @@
+G:\FreeLance\#test\Zinckernagel10\Soru1\bin\Debug\Soru1.exe
+G:\FreeLance\#test\Zinckernagel10\Soru1\bin\Debug\Soru1.pdb
+G:\FreeLance\#test\Zinckernagel10\Soru1\obj\Debug\Soru1.exe
+G:\FreeLance\#test\Zinckernagel10\Soru1\obj\Debug\Soru1.pdb

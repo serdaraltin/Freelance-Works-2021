@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E0178490-2486-4E35-BE83-808143964F92}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AracKiralamaOtomasyon</RootNamespace>
+    <AssemblyName>AracKiralamaOtomasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ayarlar.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Ayarlar.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Class_Islemler.cs" />
+    <Compile Include="Form_Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Anasayfa.designer.cs">
+      <DependentUpon>Form_Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Kiralama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Kiralama.designer.cs">
+      <DependentUpon>Form_Kiralama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Giris.designer.cs">
+      <DependentUpon>Form_Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Hakkinda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Hakkinda.designer.cs">
+      <DependentUpon>Form_Hakkinda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Islem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Islem.designer.cs">
+      <DependentUpon>Form_Islem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Musteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Musteri.designer.cs">
+      <DependentUpon>Form_Musteri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Kullanici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Kullanici.designer.cs">
+      <DependentUpon>Form_Kullanici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Arac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Arac.designer.cs">
+      <DependentUpon>Form_Arac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_VeritabaniBaglanti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_VeritabaniBaglanti.designer.cs">
+      <DependentUpon>Form_VeritabaniBaglanti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_Anasayfa.resx">
+      <DependentUpon>Form_Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Kiralama.resx">
+      <DependentUpon>Form_Kiralama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Giris.resx">
+      <DependentUpon>Form_Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Hakkinda.resx">
+      <DependentUpon>Form_Hakkinda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Islem.resx">
+      <DependentUpon>Form_Islem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Musteri.resx">
+      <DependentUpon>Form_Musteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Kullanici.resx">
+      <DependentUpon>Form_Kullanici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Arac.resx">
+      <DependentUpon>Form_Arac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_VeritabaniBaglanti.resx">
+      <DependentUpon>Form_VeritabaniBaglanti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Ayarlar.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Ayarlar.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Convert_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clear_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Outbox_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UserGroup_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BOContact2_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BOCustomer_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BOSale_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MoveUp_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BOUser_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-car-rental-taxi-enterprise-rent-a-car-renting-rent-a-car-compact-car-car-mode-of-transport.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rent-a-car-dukkani-acmak.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car-key %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car-key %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car-key %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car-rental.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-button.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

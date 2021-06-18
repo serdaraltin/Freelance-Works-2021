@@ -1,0 +1,2 @@
+Proje Netbeans 8.2 ile hazirlanmistir.
+Normal klasoru icerisindeki Soru#.java dosyalarini tek tek derleyebilir ve calistirabilirsiniz.

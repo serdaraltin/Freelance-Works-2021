@@ -1,0 +1,33 @@
+package itDepartment;
+
+public class PostGraduate extends Graduate {
+
+	private String underGraduateScholl;
+	private String underGraduateDepartment;
+	public String getUnderGraduateScholl() {
+		return underGraduateScholl;
+	}
+	public void setUnderGraduateScholl(String underGraduateScholl) {
+		this.underGraduateScholl = underGraduateScholl;
+	}
+	public String getUnderGraduateDepartment() {
+		return underGraduateDepartment;
+	}
+	public void setUnderGraduateDepartment(String underGraduateDepartment) {
+		this.underGraduateDepartment = underGraduateDepartment;
+	}
+	public PostGraduate(String underGraduateScholl,String underGraduateDepartment) {
+		super();
+		// TODO Auto-generated constructor stub
+		this.underGraduateDepartment=underGraduateDepartment;
+		this.underGraduateScholl=underGraduateScholl;
+	}
+	@Override
+	public String toString() {
+		return "PostGraduate [underGraduateScholl=" + underGraduateScholl + ", underGraduateDepartment="
+				+ underGraduateDepartment + ", stdNo=" + stdNo + ", stdName=" + stdName + ", stdSirName=" + stdSirName
+				+ ", stdDepartment=" + stdDepartment + ", lessonNo=" + lessonNo + ", lessonName=" + lessonName
+				+ ", lessonEcts=" + lessonEcts + ", examGrade=" + examGrade + "]";
+	}
+
+}

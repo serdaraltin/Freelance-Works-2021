@@ -1,0 +1,14 @@
+Benzer projelerden geldiği için kaynak kodu ve arayüzü kendinize göre düzenleyiniz.
+Benzerlik minimum olsun diye bazı düzenlemeler yapıldı, yeterli olmaması durumu için kendiniz istediğiniz şekilde düzenleyiniz.
+
+Önerilen Düzenlemeler:
+	Değişken isimlerinin değiştirilmesi
+	Arayüz öğrelerinin değiştirilmesi (VAtm,VListe,VListeMusteri sınıflarını dikkatli düzenleyiniz)
+	Method isimlerini değiştiriniz
+	Interface sınıflarını değiştiriniz
+	Kalan tüm öğeleri istediğiniz şekilde değiştiriniz
+
+	Ne kadar çok değişiklik yaparsanız benzerlik oranı o kadar düşer.
+
+	Hizmet kapsamında puan garantisi ve kopya kontrolüne karşı garanti verilmemektedir.
+	Bu bilgilendirme insiyatif alınarak yapılmıştır.

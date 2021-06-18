@@ -1,0 +1,4 @@
+main methodu içindeki ekleme işlemleri örnek verilerdir, isterseniz silebilirsiniz.
+
+JDK : jdk 1.8
+IDE : netbeans 

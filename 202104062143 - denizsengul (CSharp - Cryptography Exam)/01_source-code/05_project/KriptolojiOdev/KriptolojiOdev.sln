@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soru1", "Soru1\Soru1.csproj", "{823FBD46-EC89-4B6D-BDE8-6AE6CD8DBE97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soru2", "Soru2\Soru2.csproj", "{226A4FDF-8D28-4EC0-B003-21D5C8D642D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{823FBD46-EC89-4B6D-BDE8-6AE6CD8DBE97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823FBD46-EC89-4B6D-BDE8-6AE6CD8DBE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823FBD46-EC89-4B6D-BDE8-6AE6CD8DBE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823FBD46-EC89-4B6D-BDE8-6AE6CD8DBE97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226A4FDF-8D28-4EC0-B003-21D5C8D642D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226A4FDF-8D28-4EC0-B003-21D5C8D642D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226A4FDF-8D28-4EC0-B003-21D5C8D642D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226A4FDF-8D28-4EC0-B003-21D5C8D642D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

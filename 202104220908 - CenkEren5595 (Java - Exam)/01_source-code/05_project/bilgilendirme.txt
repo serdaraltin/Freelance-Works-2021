@@ -1,0 +1,3 @@
+Proje netbeans idesinden yapılmıştır.
+
+1. soru programlama olmadığından yapılmamıştır.

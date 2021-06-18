@@ -1,0 +1,21 @@
+package main;
+
+import java.util.HashSet;
+
+public class MyHashSet<String> extends HashSet<String> {
+	public void addPTokens(MyList<String> p1Tokens,MyList<String> p2Tokens,MyList<String> p3Tokens)
+	{
+		for(String token:p1Tokens)
+		{
+			this.add(token);
+		}
+		for(String token:p2Tokens)
+		{
+			this.add(token);
+		}
+		for(String token:p3Tokens)
+		{
+			this.add(token);
+		}
+	}
+}

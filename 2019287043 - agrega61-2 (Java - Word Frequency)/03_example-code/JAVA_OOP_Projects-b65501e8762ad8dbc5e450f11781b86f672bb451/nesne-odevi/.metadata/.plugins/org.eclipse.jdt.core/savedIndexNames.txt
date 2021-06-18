@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\fatih\OneDrive\Masaüstü\nesne-odevi\.metadata\.plugins\org.eclipse.jdt.core
+1127977822.index
+3557479667.index

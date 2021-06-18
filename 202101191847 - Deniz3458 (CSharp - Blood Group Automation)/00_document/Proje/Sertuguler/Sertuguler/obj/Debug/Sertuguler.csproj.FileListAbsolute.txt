@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\SadeceOn İş\Sertuguler\Sertuguler\bin\Debug\Sertuguler.exe.config
+C:\Users\PC\Desktop\SadeceOn İş\Sertuguler\Sertuguler\bin\Debug\Sertuguler.exe
+C:\Users\PC\Desktop\SadeceOn İş\Sertuguler\Sertuguler\bin\Debug\Sertuguler.pdb
+C:\Users\PC\Desktop\SadeceOn İş\Sertuguler\Sertuguler\obj\Debug\Sertuguler.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\SadeceOn İş\Sertuguler\Sertuguler\obj\Debug\Sertuguler.exe
+C:\Users\PC\Desktop\SadeceOn İş\Sertuguler\Sertuguler\obj\Debug\Sertuguler.pdb
+C:\Users\Deniz Kirazoğlu\Desktop\Proje\Sertuguler\Sertuguler\bin\Debug\Sertuguler.exe.config
+C:\Users\Deniz Kirazoğlu\Desktop\Proje\Sertuguler\Sertuguler\bin\Debug\Sertuguler.exe
+C:\Users\Deniz Kirazoğlu\Desktop\Proje\Sertuguler\Sertuguler\bin\Debug\Sertuguler.pdb
+C:\Users\Deniz Kirazoğlu\Desktop\Proje\Sertuguler\Sertuguler\obj\Debug\Sertuguler.csprojAssemblyReference.cache
+C:\Users\Deniz Kirazoğlu\Desktop\Proje\Sertuguler\Sertuguler\obj\Debug\Sertuguler.csproj.CoreCompileInputs.cache
+C:\Users\Deniz Kirazoğlu\Desktop\Proje\Sertuguler\Sertuguler\obj\Debug\Sertuguler.exe
+C:\Users\Deniz Kirazoğlu\Desktop\Proje\Sertuguler\Sertuguler\obj\Debug\Sertuguler.pdb

@@ -1,0 +1,4 @@
+Lütfen nesne tabanlı programlama yardımı ile bir e-iş uygulaması yazın ve kod yazarken videoyu yeniden kodlayın. not: java'da kod yazarken videoyu kaydedin Bitmiş projeyi açıklamamalısın.
+
+abstrack,inharitance,interface,override,over loading,strean,void,string,ve clas
+sınıf oluşturulmalı sınıflar extend edilmesi lazım apstrakları kullann lütfen ne kadar çeşitli olursa o kadar iyi olur benim için ortalama istenilen satır sayısı 35 40 satır lütfen daha fazlasını yazmayalım birde bunları kamera karşısında açıklayacağım satırların yanlarına benim için açıklamalar yazarsanız iyi olur

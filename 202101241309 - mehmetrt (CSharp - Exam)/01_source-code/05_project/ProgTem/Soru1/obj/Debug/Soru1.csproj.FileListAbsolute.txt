@@ -1,0 +1,5 @@
+G:\FreeLance\mehmetrt\01_source-code\05_project\ProgTem\Soru1\bin\Debug\Soru1.exe
+G:\FreeLance\mehmetrt\01_source-code\05_project\ProgTem\Soru1\bin\Debug\Soru1.pdb
+G:\FreeLance\mehmetrt\01_source-code\05_project\ProgTem\Soru1\obj\Debug\Soru1.csprojResolveAssemblyReference.cache
+G:\FreeLance\mehmetrt\01_source-code\05_project\ProgTem\Soru1\obj\Debug\Soru1.exe
+G:\FreeLance\mehmetrt\01_source-code\05_project\ProgTem\Soru1\obj\Debug\Soru1.pdb

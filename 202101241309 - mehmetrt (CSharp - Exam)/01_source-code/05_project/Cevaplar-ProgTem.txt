@@ -1,0 +1,144 @@
+Soru 1 >>
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Soru1
+{
+    class Program
+    {
+        static string[] derslerim = new string[]
+        {
+           "Pazartesi,8:00,10:00" ,
+           "Salı    ,9:00,10:00,15:00" ,
+           "Çarşamba,10:00,11:00,15:00,17:00",
+           "Perşembe,13:00" 
+        };
+        static void Main(string[] args)
+        {
+            foreach (string gun in derslerim){
+                foreach(string parca in gun.Split(','))
+                {
+                    Console.Write(parca + "\t");
+              
+                }
+                Console.WriteLine();
+            }
+            Console.ReadKey();
+        }
+    }
+}
+
+
+Soru 2 >>
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Soru2
+{
+    class Program
+    {
+        static bool hesapla(int sayi)
+        {
+            int[] seri = new int[sayi];
+            seri[0] = 1;
+            seri[1] = 2;
+
+            for (int i =2; i < seri.Length; i++)
+            {
+                int toplam = seri[i - 1] + seri[i - 2] + 1;
+                seri[i] = toplam;
+
+                if(toplam == sayi)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+        static void Main(string[] args)
+        {
+        
+            Console.WriteLine(hesapla(7));
+            Console.WriteLine(hesapla(11));
+            Console.WriteLine(hesapla(15));
+            Console.WriteLine(hesapla(20));
+            Console.ReadKey();
+        }
+    }
+}
+
+
+Soru 3 >>
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Soru3
+{
+    class Program
+    {
+        static int asal(int[] dizi)
+        {
+            int asalToplam = 0;
+            int sayi = 0;
+            for (int i = 0; i < dizi.Length; i++)
+            {
+                sayi = dizi[i];
+                bool kontrol = true;
+                for (int j = 2; j < sayi; j++)
+                {
+                    if (sayi % j == 0)
+                    {
+                        kontrol = false;
+                        break;
+                    }
+                }
+                if (kontrol)
+                    asalToplam++;
+                
+            }
+            return asalToplam;
+        }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine(asal(new int[] { 3, 45, 67, 8, 19, 4 }));
+            Console.ReadKey();
+        }
+    }
+}
+
+
+Soru 4 >>
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Soru4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            for (int a = 5; a >0; a--)
+            {
+                for (int i = 0; i <= a; i++)
+                {
+                    for (int j = 0; j < i; j++)
+                    {
+                        Console.Write(i);
+                    }
+                }
+                Console.WriteLine();
+            }
+            
+            Console.ReadKey();
+        }
+    }
+}

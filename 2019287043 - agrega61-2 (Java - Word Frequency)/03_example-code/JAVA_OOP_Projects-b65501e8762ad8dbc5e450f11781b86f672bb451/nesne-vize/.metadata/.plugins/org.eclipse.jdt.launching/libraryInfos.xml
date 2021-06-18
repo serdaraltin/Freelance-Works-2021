@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\Users\fatih\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955\jre" version="15.0.2"/>
+    <libraryInfo home="C:\Users\fatih\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955" version="15.0.2"/>
+    <libraryInfo home="/home/fatih/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_15.0.2.v20210201-0955/jre" version="15.0.2"/>
+    <libraryInfo home="/lib/jvm/jdk-16" version="16"/>
+    <libraryInfo home="/usr/local/jre1.8.0_291" version="1.8.0_291">
+        <bootpath>
+            <entry path="/usr/local/jre1.8.0_291/lib/resources.jar"/>
+            <entry path="/usr/local/jre1.8.0_291/lib/rt.jar"/>
+            <entry path="/usr/local/jre1.8.0_291/lib/sunrsasign.jar"/>
+            <entry path="/usr/local/jre1.8.0_291/lib/jsse.jar"/>
+            <entry path="/usr/local/jre1.8.0_291/lib/jce.jar"/>
+            <entry path="/usr/local/jre1.8.0_291/lib/charsets.jar"/>
+            <entry path="/usr/local/jre1.8.0_291/lib/jfr.jar"/>
+            <entry path="/usr/local/jre1.8.0_291/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/usr/local/jre1.8.0_291/lib/ext"/>
+            <entry path="/usr/java/packages/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/usr/local/jre1.8.0_291/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/usr/lib/jvm/java-11-openjdk-amd64" version="11.0.11"/>
+    <libraryInfo home="/home/fatih/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_15.0.2.v20210201-0955" version="15.0.2"/>
+</libraryInfos>

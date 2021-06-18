@@ -1,0 +1,2 @@
+alt kısımda istenen özellikler menü şeklinde olması lazım, ve array list kullanmamız yasak object array kullanabiliyoruz sadece.
+Ek olarak tarih için util date kullanmamamız lazım

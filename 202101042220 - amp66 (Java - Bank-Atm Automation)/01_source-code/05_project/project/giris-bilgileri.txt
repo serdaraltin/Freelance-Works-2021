@@ -1,0 +1,9 @@
+Yönetici : 
+	kullanıcı : admin 
+	parola : 12345
+
+Personel :
+	kullanıcı : deneme
+	parola : 1234
+
+Veritabanı değiştirildiği için örnek kayıtlar yoktur, kendiniz oluşturmanız gerekmektedir.

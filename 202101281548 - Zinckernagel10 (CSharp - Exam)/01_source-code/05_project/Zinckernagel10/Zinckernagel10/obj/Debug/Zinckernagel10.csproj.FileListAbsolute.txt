@@ -1,0 +1,5 @@
+G:\FreeLance\#test\Zinckernagel10\Zinckernagel10\bin\Debug\Zinckernagel10.exe
+G:\FreeLance\#test\Zinckernagel10\Zinckernagel10\bin\Debug\Zinckernagel10.pdb
+G:\FreeLance\#test\Zinckernagel10\Zinckernagel10\obj\Debug\Zinckernagel10.csprojResolveAssemblyReference.cache
+G:\FreeLance\#test\Zinckernagel10\Zinckernagel10\obj\Debug\Zinckernagel10.exe
+G:\FreeLance\#test\Zinckernagel10\Zinckernagel10\obj\Debug\Zinckernagel10.pdb

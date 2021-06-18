@@ -1,0 +1,38 @@
+void heap_insert(struct heap *heap, int key)
+{
+    struct node *node = NULL, *ndRoot = NULL,*ndBack = NULL;
+
+    ndRoot = heap->kok;
+    while (ndRoot)
+    {
+        ndBack = ndRoot;
+        if (key < ndRoot->anahtar)
+        {
+            ndRoot = ndRoot->sol_link;
+        }
+        else if (key > ndRoot->anahtar)
+        {
+            ndRoot = ndRoot->sag_link;
+        }
+        else
+        {
+            return;
+        }
+    }
+    struct node *ndRoot = (struct node*)malloc(sizeof(struct node));
+    node = ndRoot->anahtar = key;       
+    ndRoot->sol_link = ndRoot->sag_link = NULL; 
+    if (heap->kok == NULL)
+    {
+        heap->kok = node;
+        return;
+    }
+    if (key < ndBack->anahtar)
+    {
+        ndBack->sol_link = node;
+    }
+    else
+    {
+        ndBack->sag_link = node;
+    }
+}

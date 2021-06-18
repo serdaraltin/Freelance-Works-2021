@@ -1,0 +1,8 @@
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru2\obj\Debug\soru2.Resources.resources
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru2\obj\Debug\soru2.vbproj.GenerateResource.Cache
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru2\bin\Debug\soru2.exe
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru2\bin\Debug\soru2.pdb
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru2\bin\Debug\soru2.xml
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru2\obj\Debug\soru2.exe
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru2\obj\Debug\soru2.xml
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru2\obj\Debug\soru2.pdb

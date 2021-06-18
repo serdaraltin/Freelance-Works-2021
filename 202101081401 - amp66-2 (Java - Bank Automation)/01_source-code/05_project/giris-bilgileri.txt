@@ -1,0 +1,7 @@
+Yönetici : 
+	kullanıcı : admin 
+	parola : admin
+
+Personel :
+	kullanıcı : rıfat
+	parola : 1234

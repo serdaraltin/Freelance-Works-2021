@@ -1,0 +1,163 @@
+﻿namespace GTS_Project
+{
+    partial class Form_Islem
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.btn_Kapat = new System.Windows.Forms.Button();
+            this.btn_Yenile = new System.Windows.Forms.Button();
+            this.btn_Ekle = new System.Windows.Forms.Button();
+            this.dg_veriler = new System.Windows.Forms.DataGridView();
+            this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dg_veriler)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // panel1
+            // 
+            this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel1.BackColor = System.Drawing.Color.DimGray;
+            this.panel1.Controls.Add(this.btn_Kapat);
+            this.panel1.Controls.Add(this.btn_Yenile);
+            this.panel1.Controls.Add(this.btn_Ekle);
+            this.panel1.Location = new System.Drawing.Point(13, 9);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(725, 49);
+            this.panel1.TabIndex = 10;
+            // 
+            // btn_Kapat
+            // 
+            this.btn_Kapat.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btn_Kapat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_Kapat.Location = new System.Drawing.Point(616, 5);
+            this.btn_Kapat.Name = "btn_Kapat";
+            this.btn_Kapat.Size = new System.Drawing.Size(100, 38);
+            this.btn_Kapat.TabIndex = 4;
+            this.btn_Kapat.Text = "KAPAT";
+            this.btn_Kapat.UseVisualStyleBackColor = true;
+            this.btn_Kapat.Click += new System.EventHandler(this.btn_Kapat_Click);
+            // 
+            // btn_Yenile
+            // 
+            this.btn_Yenile.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_Yenile.Location = new System.Drawing.Point(13, 5);
+            this.btn_Yenile.Name = "btn_Yenile";
+            this.btn_Yenile.Size = new System.Drawing.Size(100, 38);
+            this.btn_Yenile.TabIndex = 3;
+            this.btn_Yenile.Text = "YENİLE";
+            this.btn_Yenile.UseVisualStyleBackColor = true;
+            this.btn_Yenile.Click += new System.EventHandler(this.btn_Yenile_Click);
+            // 
+            // btn_Ekle
+            // 
+            this.btn_Ekle.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_Ekle.Location = new System.Drawing.Point(119, 5);
+            this.btn_Ekle.Name = "btn_Ekle";
+            this.btn_Ekle.Size = new System.Drawing.Size(100, 38);
+            this.btn_Ekle.TabIndex = 0;
+            this.btn_Ekle.Text = "EKLE";
+            this.btn_Ekle.UseVisualStyleBackColor = true;
+            this.btn_Ekle.Click += new System.EventHandler(this.btn_Ekle_Click);
+            // 
+            // dg_veriler
+            // 
+            this.dg_veriler.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.dg_veriler.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dg_veriler.BackgroundColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.dg_veriler.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.DimGray;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dg_veriler.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            this.dg_veriler.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.DimGray;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dg_veriler.DefaultCellStyle = dataGridViewCellStyle2;
+            this.dg_veriler.GridColor = System.Drawing.Color.DimGray;
+            this.dg_veriler.Location = new System.Drawing.Point(13, 64);
+            this.dg_veriler.MultiSelect = false;
+            this.dg_veriler.Name = "dg_veriler";
+            this.dg_veriler.ReadOnly = true;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.DimGray;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dg_veriler.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
+            this.dg_veriler.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dg_veriler.Size = new System.Drawing.Size(725, 402);
+            this.dg_veriler.TabIndex = 9;
+            this.dg_veriler.RowEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dg_veriler_RowEnter);
+            this.dg_veriler.DoubleClick += new System.EventHandler(this.dg_veriler_DoubleClick);
+            // 
+            // Form_Islem
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ClientSize = new System.Drawing.Size(751, 478);
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.dg_veriler);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.MinimizeBox = false;
+            this.Name = "Form_Islem";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "İşlemler";
+            this.Load += new System.EventHandler(this.Islem_Load);
+            this.panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dg_veriler)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Button btn_Kapat;
+        private System.Windows.Forms.Button btn_Yenile;
+        private System.Windows.Forms.Button btn_Ekle;
+        private System.Windows.Forms.DataGridView dg_veriler;
+    }
+}

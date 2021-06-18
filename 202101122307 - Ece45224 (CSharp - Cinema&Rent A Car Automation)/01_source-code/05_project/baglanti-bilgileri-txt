@@ -1,0 +1,19 @@
+sunucu     : arackiradb.mssql.somee.com
+veritabani : arackiradb
+kullanici  : nevec13081_SQLLogin_1
+parola     : 61ydi4xepn
+
+
+sunucu     : sinemadb.mssql.somee.com
+veritabani : sinemadb
+kullanici  : gewad41843_SQLLogin_1
+parola     : f9qbu3qb5y
+
+
+giriş bilgileri;
+kullanıcı : admin
+parola    : 12345
+
+Bu veritabanları ücretsiz bir siteden alınmıştır.
+MsSql server kurulumlarında bilgisayar konfigurasyon hataları nedeniyle bu sunucular alınmıştır.
+Test için örnek kayıtlar eklenmiştir.

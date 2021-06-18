@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A8484DB9-1317-4E37-9583-08E9EFF8F4E4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GazeteOtomasyon</RootNamespace>
+    <AssemblyName>GazeteOtomasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ayarlar.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Ayarlar.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Class_Islemler.cs" />
+    <Compile Include="Form_Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Giris.Designer.cs">
+      <DependentUpon>Form_Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Teslimat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Teslimat.Designer.cs">
+      <DependentUpon>Form_Teslimat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_AboneUrun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_AboneUrun.Designer.cs">
+      <DependentUpon>Form_AboneUrun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Stok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Stok.Designer.cs">
+      <DependentUpon>Form_Stok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Urun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Urun.Designer.cs">
+      <DependentUpon>Form_Urun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Firma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Firma.Designer.cs">
+      <DependentUpon>Form_Firma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Anasayfa.Designer.cs">
+      <DependentUpon>Form_Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Hakkinda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Hakkinda.Designer.cs">
+      <DependentUpon>Form_Hakkinda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Islem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Islem.Designer.cs">
+      <DependentUpon>Form_Islem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Abone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Abone.Designer.cs">
+      <DependentUpon>Form_Abone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Personel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Personel.Designer.cs">
+      <DependentUpon>Form_Personel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_VeritabaniBaglanti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_VeritabaniBaglanti.Designer.cs">
+      <DependentUpon>Form_VeritabaniBaglanti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_Giris.resx">
+      <DependentUpon>Form_Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Teslimat.resx">
+      <DependentUpon>Form_Teslimat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_AboneUrun.resx">
+      <DependentUpon>Form_AboneUrun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Stok.resx">
+      <DependentUpon>Form_Stok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Urun.resx">
+      <DependentUpon>Form_Urun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Firma.resx">
+      <DependentUpon>Form_Firma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Anasayfa.resx">
+      <DependentUpon>Form_Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Hakkinda.resx">
+      <DependentUpon>Form_Hakkinda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Islem.resx">
+      <DependentUpon>Form_Islem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Abone.resx">
+      <DependentUpon>Form_Abone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Personel.resx">
+      <DependentUpon>Form_Personel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_VeritabaniBaglanti.resx">
+      <DependentUpon>Form_VeritabaniBaglanti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Ayarlar.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Ayarlar.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

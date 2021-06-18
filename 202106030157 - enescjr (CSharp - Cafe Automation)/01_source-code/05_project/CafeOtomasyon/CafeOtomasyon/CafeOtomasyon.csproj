@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{63AEB1E5-5D5D-4EF0-9C48-CE2BA6125BA3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CafeOtomasyon</RootNamespace>
+    <AssemblyName>CafeOtomasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ayarlar.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Ayarlar.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Class_Islemler.cs" />
+    <Compile Include="Form_Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Anasayfa.designer.cs">
+      <DependentUpon>Form_Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Hakkinda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Hakkinda.designer.cs">
+      <DependentUpon>Form_Hakkinda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Islem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Islem.designer.cs">
+      <DependentUpon>Form_Islem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Masa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Masa.designer.cs">
+      <DependentUpon>Form_Masa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Siparis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Siparis.designer.cs">
+      <DependentUpon>Form_Siparis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Personel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Personel.designer.cs">
+      <DependentUpon>Form_Personel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_VeritabaniBaglanti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_VeritabaniBaglanti.designer.cs">
+      <DependentUpon>Form_VeritabaniBaglanti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Giris.designer.cs">
+      <DependentUpon>Form_Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Kullanici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Kullanici.designer.cs">
+      <DependentUpon>Form_Kullanici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_Anasayfa.resx">
+      <DependentUpon>Form_Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Hakkinda.resx">
+      <DependentUpon>Form_Hakkinda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Islem.resx">
+      <DependentUpon>Form_Islem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Masa.resx">
+      <DependentUpon>Form_Masa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Siparis.resx">
+      <DependentUpon>Form_Siparis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Personel.resx">
+      <DependentUpon>Form_Personel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_VeritabaniBaglanti.resx">
+      <DependentUpon>Form_VeritabaniBaglanti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Giris.resx">
+      <DependentUpon>Form_Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Kullanici.resx">
+      <DependentUpon>Form_Kullanici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Ayarlar.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Ayarlar.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

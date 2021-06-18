@@ -1,0 +1,13 @@
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\batuhangrbz\bin\Debug\batuhangrbz.exe
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\batuhangrbz\bin\Debug\batuhangrbz.pdb
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\batuhangrbz\bin\Debug\batuhangrbz.xml
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\batuhangrbz\obj\Debug\batuhangrbz.vbprojResolveAssemblyReference.cache
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\batuhangrbz\obj\Debug\batuhangrbz.Form1.resources
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\batuhangrbz\obj\Debug\batuhangrbz.Resources.resources
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\batuhangrbz\obj\Debug\batuhangrbz.vbproj.GenerateResource.Cache
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\batuhangrbz\obj\Debug\batuhangrbz.exe
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\batuhangrbz\obj\Debug\batuhangrbz.xml
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\batuhangrbz\obj\Debug\batuhangrbz.pdb
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\batuhangrbz\bin\Debug\hesapla.dll
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\batuhangrbz\bin\Debug\hesapla.pdb
+X:\main\Freelance\batuhangrbz-2\01_source-code\05_project\batuhangrbz\batuhangrbz\bin\Debug\hesapla.xml

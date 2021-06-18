@@ -1,0 +1,16 @@
+6 6 14
+H 1 1 NA Symbol of Sodium element
+H 1 4 BUS A road vehicle designed to carry many passengers
+H 2 3 POP Opposite of push operation in stacks
+H 3 3 NS Abbrev. Nuclear Sclerosis
+H 4 1 TOSS To throw up in the air
+H 5 1 HR Abbrev. Human Resources
+H 5 5 TR Internet country code of Turkey
+H 6 5 AG Symbol of Silver element
+V 1 1 NORTH Opposite direction of south
+V 4 2 OR Used to connect different possibilities
+V 2 3 PNS Peripheral nervous system
+V 1 4 BOSS A person who is in charge of a worker or organization
+V 1 5 UP Opposite of down
+V 5 5 TA Symbol of Tantalum element
+V 5 6 RG Symbol of Roentgenium element

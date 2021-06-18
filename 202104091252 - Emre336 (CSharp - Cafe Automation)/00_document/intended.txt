@@ -1,0 +1,3 @@
+C# Cafe Otomasyonu veritabanı bağlantılı olacak
+gerekli raporlar
+en geç hocam 1-2 hafta süremiz var

@@ -1,0 +1,12 @@
+G:\FreeLance\baris1995\01_source-code\05_project\Syllabus\Syllabus\bin\Debug\Syllabus.exe.config
+G:\FreeLance\baris1995\01_source-code\05_project\Syllabus\Syllabus\bin\Debug\Syllabus.exe
+G:\FreeLance\baris1995\01_source-code\05_project\Syllabus\Syllabus\bin\Debug\Syllabus.pdb
+G:\FreeLance\baris1995\01_source-code\05_project\Syllabus\Syllabus\obj\Debug\Syllabus.csprojResolveAssemblyReference.cache
+G:\FreeLance\baris1995\01_source-code\05_project\Syllabus\Syllabus\obj\Debug\Syllabus.Form_Hakkinda.resources
+G:\FreeLance\baris1995\01_source-code\05_project\Syllabus\Syllabus\obj\Debug\Syllabus.Form_Islem.resources
+G:\FreeLance\baris1995\01_source-code\05_project\Syllabus\Syllabus\obj\Debug\Syllabus.Form_Syllabus.resources
+G:\FreeLance\baris1995\01_source-code\05_project\Syllabus\Syllabus\obj\Debug\Syllabus.Form_VeritabaniBaglanti.resources
+G:\FreeLance\baris1995\01_source-code\05_project\Syllabus\Syllabus\obj\Debug\Syllabus.Properties.Resources.resources
+G:\FreeLance\baris1995\01_source-code\05_project\Syllabus\Syllabus\obj\Debug\Syllabus.csproj.GenerateResource.Cache
+G:\FreeLance\baris1995\01_source-code\05_project\Syllabus\Syllabus\obj\Debug\Syllabus.exe
+G:\FreeLance\baris1995\01_source-code\05_project\Syllabus\Syllabus\obj\Debug\Syllabus.pdb

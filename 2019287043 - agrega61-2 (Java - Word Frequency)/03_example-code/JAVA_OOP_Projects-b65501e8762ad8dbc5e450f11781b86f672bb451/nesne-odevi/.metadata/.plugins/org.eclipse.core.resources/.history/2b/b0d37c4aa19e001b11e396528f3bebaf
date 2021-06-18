@@ -1,0 +1,7 @@
+package bilgiIslem;
+
+
+public interface Ogrenci {
+	public int ogrNo = 0;
+	
+}

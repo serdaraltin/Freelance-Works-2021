@@ -1,0 +1,121 @@
+================================================================================================================
+						Sürüm Notları
+Tekir 2.1.0 Sürümü										     [TR]
+================================================================================================================
+
+Genel
+============================
+    * Geliştirme ve hata çözümleri için sürüm güncellemesi
+    * Veritabanına ek alanlar ve tablolar eklendi
+
+Tanımlar
+============================
+
+	Cari
+	============================
+		* Adreslere ülke eklendi. Ülke seçimleri eklendi
+		* Adreste ilçe seçimi zorunluluktan çıkarıldı.
+		* Cari tiplerine banka,kurum,ilişkili eklendi.
+		* Cari liste sayfasında varsayılan tel, web adresi vb. bilgilerin görünmesi sağlandı. 
+		* Cari karta borç,risk limiti, döviz kuru tipi bilgi alanları eklendi.
+ 		* Cari kartta görünürlük seçimi iptal edildi.
+	
+	Stok/Hizmet
+	============================	
+	
+	Masraf/İndirim
+	============================
+	
+	Banka
+	============================
+		* Hesabın firmaya mı cariye mi ait olduğuna dair bir alan eklendi.
+
+	Kasa
+	============================
+
+	Depo
+	============================
+
+	Döviz
+	============================
+
+	Ödeme tipi
+	============================
+
+	İş Takip
+	============================
+		* Yeni eklendi. 
+		* Tanımlancak iş no/kod'larının tüm işlem sayfalarında kullanılması eklendi.
+
+Alış
+============================
+    * Döviz kuru tipi, belge dövizi, iş takibi faturalara eklendi
+    * Döviz faturası kesilmesi sağlandı.
+
+Satış
+============================
+    * Proforma satış faturası eklendi. Kayıtlı belge istenirse Faturaya dönüştürülebilir.
+    * Döviz kuru tipi, belge dövizi, iş takibi faturalara eklendi
+    * Döviz faturası kesilmesi sağlandı. 
+    * Tutarın ingilizce yazıyla yazılması eklendi.
+    * Birden fazla şekilde fatura basımını sağlacak şablon seçimi eklendi.
+    * Cari risk ve borç limitini kontrol eden bileşen eklendi.
+    * Satış siparişlerine yazdırılma şablonu eklendi
+    * İrsaliyeli Ft ve Proforma için TR / EN şablonlar hazırlandı
+
+Stok
+============================
+
+Kasa/Banka Ödemeleri
+============================
+    * İşlemler için Avans tipi eklendi. Avans ödemelerinin takibinin yapılabilmesi sağlandı.
+    * Fatura Tahsilat Eşleme ekranı eklendi.
+    * Tahsilat-tediye toplamları hem dövize, hemde iş takip koduna göre gruplandı.
+    * Banka transfer tipine vezneden seçeneği eklendi.
+    * Banka fişlerinde firmanın banka hesapları içinden seçim kontrolleri eklendi.
+
+Çek/Senet Ödemeleri
+============================
+    * Çek ve senet ön izleme ekranları düzenlendi
+    * Çek bordro girişi ile yapılan çek alımları teker teker kayıt edilir oldu. 
+
+Raporlar
+============================
+    * Mutabakat mektubu dövize göre alınabir oldu.
+    * Raporların uygun olanları yetkiye bağlı olarak xls (excel) olarak dışarı alınabiliyor oldu.
+    * Cariye satılanlar raporu dövizli hale getirildi.
+    * Geçmişe Dönük Borçlu raporu eklendi.
+    * Cari hareket ve durum raporuna tek cari seçebilme eklendi.
+
+Yönetim
+============================
+    * Kullanıcı tablosuna varsayılan olarak kullanılacak kasa ve depo alanları eklendi. Kullanıcıya bunlar tanımlıysa listelere sadece bu değerler dönecek şekilde liste metodları değiştirildi.
+    * Dövizlere İngilizce isim alanları eklendi.
+    * Evrak tipine göre basım şablonu tanımlanacak ekran eklendi.
+    * Rol yetkilerine ekler yapıldı.
+    * Şirket bilgilerine ekler yapıldı. 
+    * Genel ayarlara dövizli fatura kesilebilme kontrolü eklendi
+
+İyileştirme
+============================
+    * Cari arama alanları optimize edildi. Kişinin tam adı ve Firma Unvanı aranabilir oldu.
+    * Hızlı Cari ekleme ekranında adrese şehir zorunlu olmadan eklendi.
+    * Menu ikonlarinda zenginleştirme yapıldı.
+
+Hata Çözümleri
+============================
+    * Stok kartı açarken marka fiyat listesine satış fiyatı eklenmiyordu düzeltildi.
+    * Cari döküman ekleme-görüntülemede problem vardı, düzeltildi.
+    * Satış siparişlerinde adres seçilebilmesi sorunu düzeltildi.
+    * Fatura viewlarında adres gösterimlerindeki hata giderildi.
+    * Faturadan oluşan tahsilat fişinin txn kayıtlarının yerel yansımaları düzeltildi.
+    * Fatura liste ekranında proforma filtresi çalışmıyordu, düzeltildi.
+    * Alış faturasında sakla metodu yanlış işlemi çağırıyordu, düzeltildi.
+    * Tahsilat ve tediyedeki arama hataları düzeltildi.
+    * Alış ve satış fatura listesindeki hatalar giderildi.
+    * Stok limit kontrol uayarısı çalışmıyor, eksi(-) stoka düşüyordu, düzeltildi.
+    * Faturalar, irsaliyeler, siparişler vb. ekranlarda fare ile cari ve stok seçme sorunu giderildi.
+    * İrssaliyeli satış faturasına siparişten ekleme yapılamıyordu, düzeltildi.
+    * Alış faturaları menü linkleri ve başlıkları düzenlendi.
+    * Tahsilat fişi silme,düzenleme problemi giderildi.
+    * Raporlarda görünüm, başlık, eksik bilgi hataları düzeltildi.

@@ -1,0 +1,23 @@
+﻿  main.cpp
+g:\freelance\harunvs123\01_source-code\05_project\main.cpp(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+g:\freelance\harunvs123\01_source-code\05_project\main.cpp(46): warning C4101: 'z': unreferenced local variable
+g:\freelance\harunvs123\01_source-code\05_project\main.cpp(46): warning C4101: 'y': unreferenced local variable
+g:\freelance\harunvs123\01_source-code\05_project\main.cpp(46): warning C4101: 'x': unreferenced local variable
+g:\freelance\harunvs123\01_source-code\05_project\main.cpp(85): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+g:\freelance\harunvs123\01_source-code\05_project\main.cpp(133): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+g:\freelance\harunvs123\01_source-code\05_project\main.cpp(181): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+g:\freelance\harunvs123\01_source-code\05_project\main.cpp(183): warning C4101: 'z': unreferenced local variable
+g:\freelance\harunvs123\01_source-code\05_project\main.cpp(183): warning C4101: 'y': unreferenced local variable
+g:\freelance\harunvs123\01_source-code\05_project\main.cpp(220): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+g:\freelance\harunvs123\01_source-code\05_project\main.cpp(222): warning C4101: 'z': unreferenced local variable
+g:\freelance\harunvs123\01_source-code\05_project\main.cpp(266): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+g:\freelance\harunvs123\01_source-code\05_project\main.cpp(268): warning C4101: 'z': unreferenced local variable
+g:\freelance\harunvs123\01_source-code\05_project\main.cpp(268): warning C4101: 'y': unreferenced local variable
+  NypBut.vcxproj -> G:\FreeLance\harunvs123\01_source-code\05_project\NypBut\Debug\NypBut.exe
+  NypBut.vcxproj -> G:\FreeLance\harunvs123\01_source-code\05_project\NypBut\Debug\NypBut.pdb (Partial PDB)

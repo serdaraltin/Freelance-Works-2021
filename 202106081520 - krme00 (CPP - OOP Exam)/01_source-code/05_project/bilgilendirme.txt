@@ -1,0 +1,2 @@
+Netbeans klasörü içerisinde progrmaın Netbeans 8.2 IDE sine uygun versiyonu bulunmaktadır.
+Normal klasörü içerisinde progrmaın DEVC++ IDE sine uygun verisiyonu bulunmaktadır.

@@ -1,0 +1,26 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Hashtable;
+
+public class GetFreq<String,Values> extends Hashtable<String, Integer>{
+	
+	Integer value;
+	public void freqs(ArrayList<java.lang.String> a,ArrayList<java.lang.String> a2,ArrayList<java.lang.String> a3,MyHashSet<String> hash)
+	{
+		Integer count;
+		for(String token:hash)
+		{
+			count=(Collections.frequency(a, token)+Collections.frequency(a2, token)+Collections.frequency(a3, token));
+			System.out.println(token.toString()+": "+count);
+			
+			this.put(token, count);
+			
+		}
+		
+	}
+	
+
+	
+}

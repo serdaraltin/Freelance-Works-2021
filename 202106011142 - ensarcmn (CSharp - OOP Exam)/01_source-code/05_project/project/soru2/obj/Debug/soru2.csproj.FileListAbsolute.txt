@@ -1,0 +1,10 @@
+Y:\Freelance\ensarcmn\01_source-code\05_project\blm236\soru2\obj\Debug\soru2.csprojResolveAssemblyReference.cache
+Y:\Freelance\ensarcmn\01_source-code\05_project\blm236\soru2\bin\Debug\soru2.exe
+Y:\Freelance\ensarcmn\01_source-code\05_project\blm236\soru2\bin\Debug\soru2.pdb
+Y:\Freelance\ensarcmn\01_source-code\05_project\blm236\soru2\obj\Debug\soru2.exe
+Y:\Freelance\ensarcmn\01_source-code\05_project\blm236\soru2\obj\Debug\soru2.pdb
+Y:\Freelance\⁄ensarcmn\01_source-code\05_project\project\soru2\bin\Debug\soru2.exe
+Y:\Freelance\⁄ensarcmn\01_source-code\05_project\project\soru2\bin\Debug\soru2.pdb
+Y:\Freelance\⁄ensarcmn\01_source-code\05_project\project\soru2\obj\Debug\soru2.csprojResolveAssemblyReference.cache
+Y:\Freelance\⁄ensarcmn\01_source-code\05_project\project\soru2\obj\Debug\soru2.exe
+Y:\Freelance\⁄ensarcmn\01_source-code\05_project\project\soru2\obj\Debug\soru2.pdb

@@ -1,0 +1,10 @@
+Bolca fonksiyonlar ve diziler kullanmanız gerek.
+double marketF[] = {1.5, 0.5, 1.0, 2.0, 5.0,
+1.0, 4.0, 8.0, 2.0, 1.5,
+0.8, 1.6, 3.5, 2.80, 3.0, 2.5
+};
+Fiyat listesi için kullandığım diziyi yukarı ekledim
+string marketTxt[] = {"Domates","Kabak","Havuç","Patlıcan","Iceberg",
+"Salatalık","Marul","Lahana","Elma","Portakal",
+"Mandalina","Armut","Cips","Kola","IceTea","Kek"};
+Bu da olması gereken ürünlerin listesini tutan dizi.

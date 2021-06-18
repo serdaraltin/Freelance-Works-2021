@@ -1,0 +1,12 @@
+package it;
+
+public class PostGraduate extends Graduate {
+
+	String underGraduateScholl;
+	String underGraduateDepartment;
+	public PostGraduate(String underGraduateScholl,String underGraduateDepartment) {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+}

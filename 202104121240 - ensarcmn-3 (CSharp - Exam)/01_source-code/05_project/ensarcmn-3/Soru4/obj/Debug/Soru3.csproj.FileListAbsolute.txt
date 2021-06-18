@@ -1,0 +1,5 @@
+Y:\main\Freelance\#complated\202104121240 - ensarcmn-3 (CSharp - Exam)\01_source-code\05_project\ensarcmn-3\Soru4\bin\Debug\Soru4.exe
+Y:\main\Freelance\#complated\202104121240 - ensarcmn-3 (CSharp - Exam)\01_source-code\05_project\ensarcmn-3\Soru4\bin\Debug\Soru4.pdb
+Y:\main\Freelance\#complated\202104121240 - ensarcmn-3 (CSharp - Exam)\01_source-code\05_project\ensarcmn-3\Soru4\obj\Debug\Soru3.csprojResolveAssemblyReference.cache
+Y:\main\Freelance\#complated\202104121240 - ensarcmn-3 (CSharp - Exam)\01_source-code\05_project\ensarcmn-3\Soru4\obj\Debug\Soru4.exe
+Y:\main\Freelance\#complated\202104121240 - ensarcmn-3 (CSharp - Exam)\01_source-code\05_project\ensarcmn-3\Soru4\obj\Debug\Soru4.pdb

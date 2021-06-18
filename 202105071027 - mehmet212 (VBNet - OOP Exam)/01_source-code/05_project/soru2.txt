@@ -1,0 +1,52 @@
+Public >>
+    public erişim belirteci, bir sınıfın üye değişkenlerini ve üye işlevlerini diğer işlevlere ve nesnelere görünür kılmasına verir.
+    Herhangi bir public üye sınıf dışından erişilebilir kılınmış olur.
+
+Private >>
+    private erişim belirteci, bir sınıfın üye değişkenlerini ve üye işlevlerini diğer işlevlerden ve nesnelerden gizlemesine izin verir.
+    private yapılan öge sadece sınıf üyeleri tarafından erişilebilir. Sınıf dışından hiçbir şekilde private olan üyeye erişilemez.
+
+Friend >>
+    Bildirim deyimindeki Friend anahtar sözcüğü, öğesine aynı derleme içinden erişilemeyeceğini, ancak derlemenin dışından erişilebileceğini belirtir.
+
+
+Protected >>
+    protected erişim belirteci, bir alt sınıfın, üye değişkenlerine ve temel sınıfının üye işlevlerine erişmesine izin verir.
+    protected erişim belirteci kalıtım uygulanmasında yardımcı olur.
+    Kendisini miras olarak kullanan her sınıfta protected üyelere ulaşım sağlanır.
+
+Protected Friend >>
+    Bildirim deyimindeki Protected Friend anahtar sözcüğü birleşimi, öğesine türetilmiş sınıflardan veya aynı derlemenin içinden ya da her ikisinin de erişilebileceğini belirtir.
+
+
+
+    
+    Module soru2
+        Public Class Erisim
+            Public public_deger As String
+            Private private_deger As String
+            Friend friend_deger As String
+            Protected protected_deger As String
+            Protected Friend protectedfriend_deger As String
+        End Class
+
+        Sub Main()
+            Dim erisim As New Erisim
+            erisim.public_deger = "deneme"
+            erisim.friend_deger = "deneme"
+            erisim.protectedfriend_deger = "deneme"
+
+            Console.WriteLine(erisim.public_deger)
+            Console.WriteLine(erisim.friend_deger)
+            Console.WriteLine(erisim.protectedfriend_deger)
+
+            Console.ReadKey()
+        End Sub
+
+    End Module
+
+    public_deger ozelliginin erisim belirteci Public oldugundan dogrudan sınıf dışından erişilebiliyor.
+    private_deger ozelliginin erisim belirteci Private oldugundan sınıf dışından erişilememektedir.
+    friend_deger ozelliginin erişim belirteci Friend olduğundan sınıf içinden erişilemezken, sınıf dışından erişilebilir.
+    protected_deger ozelliginin erisim belirteci Protected oldugundan, sinifi kalitim alan alt siniflardan erisilebilir fakat doğrudan erişilemez.
+    protectedfriend_deger ozelliginin erisim belirteci Protected Friend oldugundan sınıf dışından ve arkadas methodlardan erişilebiliyor.

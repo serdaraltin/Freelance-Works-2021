@@ -1,0 +1,96 @@
+-----------------------------------------------------------------
+ders tablosunun oluşturulması
+
+    CREATE TABLE [dbo].[ders](
+        [Id] [int] IDENTITY(1,1) NOT NULL,
+        [egitimId] [int] NULL,
+        [baslik] [varchar](100) NULL,
+        [url] [text] NULL,
+    CONSTRAINT [PK_ders] PRIMARY KEY CLUSTERED 
+    (
+        [Id] ASC
+    )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+    ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+-----------------------------------------------------------------
+
+-----------------------------------------------------------------
+durum tablosunun oluşturulması
+
+CREATE TABLE [dbo].[durum](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[kullaniciId] [int] NULL,
+	[dersId] [int] NULL,
+	[tamamlanma] [tinyint] NULL,
+	[tarih] [date] NULL,
+ CONSTRAINT [PK_durum] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+-----------------------------------------------------------------
+
+-----------------------------------------------------------------
+egitim tablosunun oluşturulması
+
+    CREATE TABLE [dbo].[egitim](
+        [Id] [int] IDENTITY(1,1) NOT NULL,
+        [kullaniciId] [int] NULL,
+        [kategoriId] [int] NULL,
+        [baslik] [varchar](100) NULL,
+        [aciklama] [text] NULL,
+    CONSTRAINT [PK_egitim] PRIMARY KEY CLUSTERED 
+    (
+        [Id] ASC
+    )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+    ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+-----------------------------------------------------------------
+
+-----------------------------------------------------------------
+kategori tablosunun oluşturulması
+
+    CREATE TABLE [dbo].[kategori](
+        [Id] [int] IDENTITY(1,1) NOT NULL,
+        [ad] [varchar](50) NULL,
+    CONSTRAINT [PK_kategori] PRIMARY KEY CLUSTERED 
+    (
+        [Id] ASC
+    )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+    ) ON [PRIMARY]
+-----------------------------------------------------------------
+
+-----------------------------------------------------------------
+kullanici tablosunun oluşturulması
+
+    CREATE TABLE [dbo].[kullanici](
+        [Id] [int] IDENTITY(1,1) NOT NULL,
+        [kullaniciAd] [varchar](50) NULL,
+        [parola] [varchar](50) NULL,
+        [ad] [varchar](50) NULL,
+        [soyad] [varchar](50) NULL,
+        [cinsiyet] [varchar](5) NULL,
+        [dogumTarih] [date] NULL,
+        [telNo] [varchar](12) NULL,
+        [email] [varchar](100) NULL,
+    CONSTRAINT [PK_kullanici] PRIMARY KEY CLUSTERED 
+    (
+        [Id] ASC
+    )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+    ) ON [PRIMARY]
+-----------------------------------------------------------------
+
+-----------------------------------------------------------------
+satinAlim tablosunun oluşturulması
+
+    CREATE TABLE [dbo].[satinAlim](
+        [Id] [int] IDENTITY(1,1) NOT NULL,
+        [kullaniciId] [int] NULL,
+        [egitimId] [int] NULL,
+        [ucret] [float] NULL,
+        [tarih] [date] NULL,
+    CONSTRAINT [PK_satinAlim] PRIMARY KEY CLUSTERED 
+    (
+        [Id] ASC
+    )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+    ) ON [PRIMARY]
+-----------------------------------------------------------------
+

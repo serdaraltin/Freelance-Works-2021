@@ -1,0 +1,4 @@
+Visual Studio kullanıyorsanız "BKTEI" klasörü içindeki .sln proje dosyasını visual studio ile açın
+Linux/Mac kullanıyorsanız DotNet-core klasörünü kullanınız.
+
+not: Okullarda visual studio kullanılır, dotnet versiyonu önemsizdir.

@@ -1,0 +1,11 @@
+package it;
+
+
+public interface IStudent implements IClasses {
+	int stdNo = 0;
+	String stdName ="";
+	String stdSirName="";
+	String stdDepartment="";
+	
+	
+}

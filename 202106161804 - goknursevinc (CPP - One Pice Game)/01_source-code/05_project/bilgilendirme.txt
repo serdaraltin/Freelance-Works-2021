@@ -1,0 +1,9 @@
+G++ veya Mingw ile Derlemek icin;
+g++ *.cpp
+
+Calistirmak icin;
+Derleme sonucu cikan exe dosyasini terminalde acik veya cift tiklayin.
+
+
+DevC++ ile derlemek icin;
+Proje olusturup dosyalari projenin bulundugu yere kopyalayin.

@@ -1,0 +1,3 @@
+Proje;
+Normal klasörü > Normal olarak g++, DevC++ ile derlenip çalıştırılabilir.
+Netbeans klasörü > Netbeans 8.2 projesi olarak hazırlanmış ve çalıştırılabilir.

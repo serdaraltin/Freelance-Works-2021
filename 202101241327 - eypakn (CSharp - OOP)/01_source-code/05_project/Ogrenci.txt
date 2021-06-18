@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace eypakn
+{
+    class Ogrenci : Kisi
+    {
+        private int ogrenciNo;
+        private Sinif sinif;
+
+        public Ogrenci(int _no, string _tcno, string _ad, string _soyad)
+        {
+            ogrenciNo = _no;
+            TcNo = _tcno;
+            Ad = _ad;
+            Soyad = _soyad;
+        }
+        public Ogrenci(int _no, string _tcno, string _ad, string _soyad, Sinif _sinif)
+        {
+            ogrenciNo = _no;
+            TcNo = _tcno;
+            Ad = _ad;
+            Soyad = _soyad;
+            sinif = _sinif;
+        }
+
+        public int OgrenciNo
+        {
+            get { return ogrenciNo; }
+            set { ogrenciNo = value; }
+        }
+
+        public Sinif Sinif
+        {
+            get { return sinif; }
+            set { sinif = value; }
+        }
+
+        public string OgrenciBilgisiGoster()
+        {
+            return "No =" + ogrenciNo +
+                "\nTc No =" + TcNo +
+                "\nAd =" + Ad +
+                "\nSoyad =" + Soyad +
+                "\nSinif =" + sinif.SinifAdi;
+        }
+    }
+}

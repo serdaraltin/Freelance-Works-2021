@@ -1,0 +1,8 @@
+G:\FreeLance\#completed\202101151909 - AysegulAkbas-2 (CSharp - OOP Exam)\01_source-code\05_project\Soru-2\Soru-2-Form\obj\Debug\Soru-2-Form.csprojResolveAssemblyReference.cache
+G:\FreeLance\#completed\202101151909 - AysegulAkbas-2 (CSharp - OOP Exam)\01_source-code\05_project\Soru-2\Soru-2-Form\obj\Debug\Soru_2_Form.Form1.resources
+G:\FreeLance\#completed\202101151909 - AysegulAkbas-2 (CSharp - OOP Exam)\01_source-code\05_project\Soru-2\Soru-2-Form\obj\Debug\Soru_2_Form.Properties.Resources.resources
+G:\FreeLance\#completed\202101151909 - AysegulAkbas-2 (CSharp - OOP Exam)\01_source-code\05_project\Soru-2\Soru-2-Form\obj\Debug\Soru-2-Form.csproj.GenerateResource.Cache
+G:\FreeLance\#completed\202101151909 - AysegulAkbas-2 (CSharp - OOP Exam)\01_source-code\05_project\Soru-2\Soru-2-Form\bin\Debug\Soru-2-Form.exe
+G:\FreeLance\#completed\202101151909 - AysegulAkbas-2 (CSharp - OOP Exam)\01_source-code\05_project\Soru-2\Soru-2-Form\bin\Debug\Soru-2-Form.pdb
+G:\FreeLance\#completed\202101151909 - AysegulAkbas-2 (CSharp - OOP Exam)\01_source-code\05_project\Soru-2\Soru-2-Form\obj\Debug\Soru-2-Form.exe
+G:\FreeLance\#completed\202101151909 - AysegulAkbas-2 (CSharp - OOP Exam)\01_source-code\05_project\Soru-2\Soru-2-Form\obj\Debug\Soru-2-Form.pdb

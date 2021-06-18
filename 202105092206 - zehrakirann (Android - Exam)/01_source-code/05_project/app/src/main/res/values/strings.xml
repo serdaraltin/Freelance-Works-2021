@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">zehrakirann</string>
+    <string name="textViewBoy">Boy</string>
+    <string name="textViewKilo">Kilo</string>
+    <string name="textViewCinsiyet">Cinsiyet</string>
+</resources>

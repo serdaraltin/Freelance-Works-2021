@@ -1,0 +1,9 @@
+G:\FreeLance\mehmetrt\01_source-code\05_project\Nesne\Soru4\bin\Debug\Soru4.exe
+G:\FreeLance\mehmetrt\01_source-code\05_project\Nesne\Soru4\bin\Debug\Soru4.pdb
+G:\FreeLance\mehmetrt\01_source-code\05_project\Nesne\Soru4\bin\Debug\Soru4.xml
+G:\FreeLance\mehmetrt\01_source-code\05_project\Nesne\Soru4\obj\Debug\Soru4.Form1.resources
+G:\FreeLance\mehmetrt\01_source-code\05_project\Nesne\Soru4\obj\Debug\Soru4.Resources.resources
+G:\FreeLance\mehmetrt\01_source-code\05_project\Nesne\Soru4\obj\Debug\Soru4.vbproj.GenerateResource.Cache
+G:\FreeLance\mehmetrt\01_source-code\05_project\Nesne\Soru4\obj\Debug\Soru4.exe
+G:\FreeLance\mehmetrt\01_source-code\05_project\Nesne\Soru4\obj\Debug\Soru4.xml
+G:\FreeLance\mehmetrt\01_source-code\05_project\Nesne\Soru4\obj\Debug\Soru4.pdb

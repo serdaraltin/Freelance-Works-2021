@@ -1,0 +1,1 @@
+Buradaki .sql dosyası veritabanının oluştrulumuş veri eklenmiş ve veri güncellenmiş halidir.

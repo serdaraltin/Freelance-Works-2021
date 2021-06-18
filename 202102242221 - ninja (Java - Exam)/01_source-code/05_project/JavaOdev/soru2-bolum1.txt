@@ -1,0 +1,8 @@
+  "Template Method" ile "Strategy" desenleri arasındaki farklar;
+    
+Strategy deseninde her yontem için bir sınıf implemente edilmektedir.
+Template Method deseninde islemler soyut olarak tanımlanmaktadır.
+Template Methodda ana sınıf abstract(soyut) iken Stategy deseninde ise interface(arayüz)
+olarak tanımlanmaktadır.
+Template Method deseninde soyut sınıf icerisinde methodlar soyut olarak tanımlanırken,
+Strategy deseninde methodlar interface olduğundan sadece başlık şeklinde tanımlanmaktadır. 

@@ -1,0 +1,20 @@
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru1\bin\Debug\Soru1.exe
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru1\bin\Debug\Soru1.pdb
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru1\bin\Debug\Soru1.xml
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru1\obj\Debug\Soru1.vbprojResolveAssemblyReference.cache
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru1\obj\Debug\Soru1.Form1.resources
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru1\obj\Debug\Soru1.Resources.resources
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru1\obj\Debug\Soru1.vbproj.GenerateResource.Cache
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru1\obj\Debug\Soru1.exe
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru1\obj\Debug\Soru1.xml
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru1\obj\Debug\Soru1.pdb
+Y:\Freelance\#complated\202106161513 - CanerAg412 (VB - Exam)\01_source-code\05_project\Project\Soru1\bin\Debug\Soru1.exe
+Y:\Freelance\#complated\202106161513 - CanerAg412 (VB - Exam)\01_source-code\05_project\Project\Soru1\bin\Debug\Soru1.pdb
+Y:\Freelance\#complated\202106161513 - CanerAg412 (VB - Exam)\01_source-code\05_project\Project\Soru1\bin\Debug\Soru1.xml
+Y:\Freelance\#complated\202106161513 - CanerAg412 (VB - Exam)\01_source-code\05_project\Project\Soru1\obj\Debug\Soru1.vbprojResolveAssemblyReference.cache
+Y:\Freelance\#complated\202106161513 - CanerAg412 (VB - Exam)\01_source-code\05_project\Project\Soru1\obj\Debug\Soru1.Form1.resources
+Y:\Freelance\#complated\202106161513 - CanerAg412 (VB - Exam)\01_source-code\05_project\Project\Soru1\obj\Debug\Soru1.Resources.resources
+Y:\Freelance\#complated\202106161513 - CanerAg412 (VB - Exam)\01_source-code\05_project\Project\Soru1\obj\Debug\Soru1.vbproj.GenerateResource.Cache
+Y:\Freelance\#complated\202106161513 - CanerAg412 (VB - Exam)\01_source-code\05_project\Project\Soru1\obj\Debug\Soru1.exe
+Y:\Freelance\#complated\202106161513 - CanerAg412 (VB - Exam)\01_source-code\05_project\Project\Soru1\obj\Debug\Soru1.xml
+Y:\Freelance\#complated\202106161513 - CanerAg412 (VB - Exam)\01_source-code\05_project\Project\Soru1\obj\Debug\Soru1.pdb

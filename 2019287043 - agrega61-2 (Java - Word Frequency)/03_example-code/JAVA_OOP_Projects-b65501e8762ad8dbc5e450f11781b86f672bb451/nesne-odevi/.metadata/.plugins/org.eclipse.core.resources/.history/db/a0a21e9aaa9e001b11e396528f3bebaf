@@ -1,0 +1,8 @@
+package it;
+
+
+public interface IStudent extends IClasses {
+	 int stdNo=0;
+	
+	double cumulativeSuccessGrade();
+}

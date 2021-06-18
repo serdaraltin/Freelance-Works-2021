@@ -1,0 +1,106 @@
+--kısım 1
+
+--bilgisayar mühendisliği
+Create view dekan_Bil_Muh_goruntu
+As
+SELECT        dbo.ogrenci.o_no AS 'Öğrenci No', dbo.ogrenci.adi AS 'Öğrenci Ad', dbo.ogrenci.soyadi AS 'Öğrenci Soyad', dbo.ders.d_adi AS 'Ders Ad', dbo.ders.d_kodu  AS 'Ders Kod', dbo.ders.kredi AS 'Ders Kredi'
+FROM            dbo.ogrenci INNER JOIN
+                         dbo.bolum ON dbo.ogrenci.b_id = dbo.bolum.b_id INNER JOIN
+                         dbo.ders ON dbo.bolum.b_id = dbo.ders.b_id INNER JOIN
+                         dbo.ogrenci_ders ON dbo.ogrenci.o_no = dbo.ogrenci_ders.o_no AND dbo.ders.d_id = dbo.ogrenci_ders.d_id
+						 where bolum.b_id = 1
+
+SELECT        dbo.ogretmen.adi AS 'Öğretmen Ad', dbo.ogretmen.soyadi AS 'Öğretmen Soyad', dbo.ders.d_adi AS 'Ders Ad', dbo.ders.d_kodu AS 'Ders Kod', dbo.ders.kredi AS 'Ders Kredi'
+FROM            dbo.bolum INNER JOIN
+                         dbo.ders ON dbo.bolum.b_id = dbo.ders.b_id INNER JOIN
+                         dbo.ogretmen ON dbo.bolum.b_id = dbo.ogretmen.b_id
+						 where bolum.b_id = 1
+
+--elektronik mühendisliği
+Create view dekan_Elo_Muh_goruntu
+As
+SELECT        dbo.ogrenci.o_no AS 'Öğrenci No', dbo.ogrenci.adi AS 'Öğrenci Ad', dbo.ogrenci.soyadi AS 'Öğrenci Soyad', dbo.ders.d_adi AS 'Ders Ad', dbo.ders.d_kodu  AS 'Ders Kod', dbo.ders.kredi AS 'Ders Kredi'
+FROM            dbo.ogrenci INNER JOIN
+                         dbo.bolum ON dbo.ogrenci.b_id = dbo.bolum.b_id INNER JOIN
+                         dbo.ders ON dbo.bolum.b_id = dbo.ders.b_id INNER JOIN
+                         dbo.ogrenci_ders ON dbo.ogrenci.o_no = dbo.ogrenci_ders.o_no AND dbo.ders.d_id = dbo.ogrenci_ders.d_id
+						 where bolum.b_id = 2
+
+SELECT        dbo.ogretmen.adi AS 'Öğretmen Ad', dbo.ogretmen.soyadi AS 'Öğretmen Soyad', dbo.ders.d_adi AS 'Ders Ad', dbo.ders.d_kodu AS 'Ders Kod', dbo.ders.kredi AS 'Ders Kredi'
+FROM            dbo.bolum INNER JOIN
+                         dbo.ders ON dbo.bolum.b_id = dbo.ders.b_id INNER JOIN
+                         dbo.ogretmen ON dbo.bolum.b_id = dbo.ogretmen.b_id
+						 where bolum.b_id = 
+
+--çevre mühendisliği
+Create view dekan_Cev_Muh_goruntu
+As
+SELECT        dbo.ogrenci.o_no AS 'Öğrenci No', dbo.ogrenci.adi AS 'Öğrenci Ad', dbo.ogrenci.soyadi AS 'Öğrenci Soyad', dbo.ders.d_adi AS 'Ders Ad', dbo.ders.d_kodu  AS 'Ders Kod', dbo.ders.kredi AS 'Ders Kredi'
+FROM            dbo.ogrenci INNER JOIN
+                         dbo.bolum ON dbo.ogrenci.b_id = dbo.bolum.b_id INNER JOIN
+                         dbo.ders ON dbo.bolum.b_id = dbo.ders.b_id INNER JOIN
+                         dbo.ogrenci_ders ON dbo.ogrenci.o_no = dbo.ogrenci_ders.o_no AND dbo.ders.d_id = dbo.ogrenci_ders.d_id
+						 where bolum.b_id = 3
+
+SELECT        dbo.ogretmen.adi AS 'Öğretmen Ad', dbo.ogretmen.soyadi AS 'Öğretmen Soyad', dbo.ders.d_adi AS 'Ders Ad', dbo.ders.d_kodu AS 'Ders Kod', dbo.ders.kredi AS 'Ders Kredi'
+FROM            dbo.bolum INNER JOIN
+                         dbo.ders ON dbo.bolum.b_id = dbo.ders.b_id INNER JOIN
+                         dbo.ogretmen ON dbo.bolum.b_id = dbo.ogretmen.b_id
+						 where bolum.b_id = 3		
+
+--enditüri mühendisliği
+Create view dekan_End_Muh_goruntu
+As
+SELECT        dbo.ogrenci.o_no AS 'Öğrenci No', dbo.ogrenci.adi AS 'Öğrenci Ad', dbo.ogrenci.soyadi AS 'Öğrenci Soyad', dbo.ders.d_adi AS 'Ders Ad', dbo.ders.d_kodu  AS 'Ders Kod', dbo.ders.kredi AS 'Ders Kredi'
+FROM            dbo.ogrenci INNER JOIN
+                         dbo.bolum ON dbo.ogrenci.b_id = dbo.bolum.b_id INNER JOIN
+                         dbo.ders ON dbo.bolum.b_id = dbo.ders.b_id INNER JOIN
+                         dbo.ogrenci_ders ON dbo.ogrenci.o_no = dbo.ogrenci_ders.o_no AND dbo.ders.d_id = dbo.ogrenci_ders.d_id
+						 where bolum.b_id = 4
+
+SELECT        dbo.ogretmen.adi AS 'Öğretmen Ad', dbo.ogretmen.soyadi AS 'Öğretmen Soyad', dbo.ders.d_adi AS 'Ders Ad', dbo.ders.d_kodu AS 'Ders Kod', dbo.ders.kredi AS 'Ders Kredi'
+FROM            dbo.bolum INNER JOIN
+                         dbo.ders ON dbo.bolum.b_id = dbo.ders.b_id INNER JOIN
+                         dbo.ogretmen ON dbo.bolum.b_id = dbo.ogretmen.b_id
+						 where bolum.b_id = 4
+
+----------------------------------------------------------
+
+--kısım 2
+
+--öğretmen Cengiz Tahir
+Create view ogretmen_cengiz_gortuntu
+As
+SELECT        dbo.ogretmen.adi AS [Öğretmen Ad], dbo.ogretmen.soyadi AS [Öğretmen Soyad], dbo.ogrenci.o_no AS [Öğrenci No], dbo.ogrenci.adi AS [Öğrenci Ad], dbo.ogrenci.soyadi AS [Öğrenci Soyad], dbo.ders.d_adi AS [Ders Ad], 
+                         dbo.ders.d_kodu AS [Ders Kodu]
+FROM            dbo.ogretmen_ders INNER JOIN
+                         dbo.ogretmen ON dbo.ogretmen_ders.o_id = dbo.ogretmen.o_id INNER JOIN
+                         dbo.ders ON dbo.ogretmen_ders.d_id = dbo.ders.d_id INNER JOIN
+                         dbo.ogrenci_ders ON dbo.ders.d_id = dbo.ogrenci_ders.d_id INNER JOIN
+                         dbo.ogrenci ON dbo.ogrenci_ders.o_no = dbo.ogrenci.o_no
+WHERE        (dbo.ogretmen.o_id = 2) 
+
+--öğretmen Derya Seçkin
+Create view ogretmen_cengiz_gortuntu
+As
+SELECT        dbo.ogretmen.adi AS [Öğretmen Ad], dbo.ogretmen.soyadi AS [Öğretmen Soyad], dbo.ogrenci.o_no AS [Öğrenci No], dbo.ogrenci.adi AS [Öğrenci Ad], dbo.ogrenci.soyadi AS [Öğrenci Soyad], dbo.ders.d_adi AS [Ders Ad], 
+                         dbo.ders.d_kodu AS [Ders Kodu]
+FROM            dbo.ogretmen_ders INNER JOIN
+                         dbo.ogretmen ON dbo.ogretmen_ders.o_id = dbo.ogretmen.o_id INNER JOIN
+                         dbo.ders ON dbo.ogretmen_ders.d_id = dbo.ders.d_id INNER JOIN
+                         dbo.ogrenci_ders ON dbo.ders.d_id = dbo.ogrenci_ders.d_id INNER JOIN
+                         dbo.ogrenci ON dbo.ogrenci_ders.o_no = dbo.ogrenci.o_no
+WHERE        (dbo.ogretmen.o_id = 3) 
+
+
+--öğretmen Ayten Kahraman
+Create view ogretmen_cengiz_gortuntu
+As
+SELECT        dbo.ogretmen.adi AS [Öğretmen Ad], dbo.ogretmen.soyadi AS [Öğretmen Soyad], dbo.ogrenci.o_no AS [Öğrenci No], dbo.ogrenci.adi AS [Öğrenci Ad], dbo.ogrenci.soyadi AS [Öğrenci Soyad], dbo.ders.d_adi AS [Ders Ad], 
+                         dbo.ders.d_kodu AS [Ders Kodu]
+FROM            dbo.ogretmen_ders INNER JOIN
+                         dbo.ogretmen ON dbo.ogretmen_ders.o_id = dbo.ogretmen.o_id INNER JOIN
+                         dbo.ders ON dbo.ogretmen_ders.d_id = dbo.ders.d_id INNER JOIN
+                         dbo.ogrenci_ders ON dbo.ders.d_id = dbo.ogrenci_ders.d_id INNER JOIN
+                         dbo.ogrenci ON dbo.ogrenci_ders.o_no = dbo.ogrenci.o_no
+WHERE        (dbo.ogretmen.o_id = 5) 

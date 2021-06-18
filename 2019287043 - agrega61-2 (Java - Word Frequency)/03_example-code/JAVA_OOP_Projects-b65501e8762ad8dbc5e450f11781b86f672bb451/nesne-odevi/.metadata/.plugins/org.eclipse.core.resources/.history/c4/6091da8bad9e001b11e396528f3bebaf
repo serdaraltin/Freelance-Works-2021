@@ -1,0 +1,11 @@
+package it;
+
+public interface IClasses {
+
+	int lessonNo=0;
+	String lessonName="";
+	int lessonEcts=0;
+	double examGrade=0;
+	void addLesson();
+	
+}

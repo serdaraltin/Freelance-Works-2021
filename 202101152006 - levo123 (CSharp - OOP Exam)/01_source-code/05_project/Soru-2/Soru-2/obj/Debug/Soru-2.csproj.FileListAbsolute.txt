@@ -1,0 +1,5 @@
+G:\FreeLance\levo123 (CSharp - OOP Exam)\01_source-code\05_project\Soru-2\Soru-2\bin\Debug\Soru-2.exe
+G:\FreeLance\levo123 (CSharp - OOP Exam)\01_source-code\05_project\Soru-2\Soru-2\bin\Debug\Soru-2.pdb
+G:\FreeLance\levo123 (CSharp - OOP Exam)\01_source-code\05_project\Soru-2\Soru-2\obj\Debug\Soru-2.csprojResolveAssemblyReference.cache
+G:\FreeLance\levo123 (CSharp - OOP Exam)\01_source-code\05_project\Soru-2\Soru-2\obj\Debug\Soru-2.exe
+G:\FreeLance\levo123 (CSharp - OOP Exam)\01_source-code\05_project\Soru-2\Soru-2\obj\Debug\Soru-2.pdb

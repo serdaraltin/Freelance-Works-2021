@@ -1,0 +1,29 @@
+SORU 1
+A number with a decimal point is the sum of two parts: an integer part before the decimal point and a fractional part which is after the decimal point. For example, has 2 as the integer part and as the fractional part. Similarly, has - 3 as the integer part and as the fractional part.
+
+Write a program that asks you to input a number of type double, and then outputs its integer part. For example if the input is , the output should be 2 . If the input is , the output should be - 3 .
+
+SORU 2
+Integer to Double: Write a function named f that takes an integer value as its parameter. When you call the function with an integer, it should return a number of type double with the same value as the integer. Use it with a main function that asks the user to input an integer, then calls the function with the value the user input, and outputs the returned value. Please note that this question tests you ability to write a function and you will lose 5 points if you do not use a function. The input format must be for an integer and the output must be in a format appropriate for the type double.
+
+
+SORU 3
+Short form name: Write a program that
+
+creates a structure myname that has two data members, both strings of 20 characters, called first_name and last_name.
+has a function that takes a structure of type myname as a parameter and outputs the name as initial. last name.
+has a main function that asks the user to input their first and last name, creates the structure, and then calls the function to output their name in the form
+initial. lastname
+
+Example:
+
+Enter First Name: Max
+
+Enter Last Name: Powers
+
+output is M. Powers
+
+Please note that this question tests your ability to create a structure and write a function for it. If you do not use these, you will lose 5 points.
+
+SORU 4
+Easy Array Input: Write a program that allows the user to input as many integers as they want, separated by a space, until they press enter. The program should create an array with the same number of elements as they input and fill the array with the values input. It should output how many integers the user input, and the values that were input. For example if the user inputs: 23 -43 54 6 999 78 and then presses enter, the program should output 6 and then output 23 -43 54 6 999 78. Assume that at least one integer must be entered. If you use a fixed number of elements, you will lose 5 points.

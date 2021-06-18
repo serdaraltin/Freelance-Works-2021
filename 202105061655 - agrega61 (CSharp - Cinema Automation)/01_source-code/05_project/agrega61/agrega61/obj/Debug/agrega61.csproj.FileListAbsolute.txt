@@ -1,0 +1,5 @@
+X:\main\Freelance\agrega61\01_source-code\05_project\agrega61\agrega61\bin\Debug\agrega61.exe
+X:\main\Freelance\agrega61\01_source-code\05_project\agrega61\agrega61\bin\Debug\agrega61.pdb
+X:\main\Freelance\agrega61\01_source-code\05_project\agrega61\agrega61\obj\Debug\agrega61.csprojResolveAssemblyReference.cache
+X:\main\Freelance\agrega61\01_source-code\05_project\agrega61\agrega61\obj\Debug\agrega61.exe
+X:\main\Freelance\agrega61\01_source-code\05_project\agrega61\agrega61\obj\Debug\agrega61.pdb

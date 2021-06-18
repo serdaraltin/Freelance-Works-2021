@@ -1,0 +1,5 @@
+G:\FreeLance\BKTEI\01_source-code\05_project\BKTEI\BKTEI\bin\Debug\BKTEI.exe
+G:\FreeLance\BKTEI\01_source-code\05_project\BKTEI\BKTEI\bin\Debug\BKTEI.pdb
+G:\FreeLance\BKTEI\01_source-code\05_project\BKTEI\BKTEI\obj\Debug\BKTEI.csprojResolveAssemblyReference.cache
+G:\FreeLance\BKTEI\01_source-code\05_project\BKTEI\BKTEI\obj\Debug\BKTEI.exe
+G:\FreeLance\BKTEI\01_source-code\05_project\BKTEI\BKTEI\obj\Debug\BKTEI.pdb

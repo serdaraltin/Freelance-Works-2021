@@ -1,0 +1,73 @@
+﻿1. Veritabanı Diagramı
+
+2. Tablolar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bolum tablosu : bölüm bilgilerinin saklandığı tablodur. ablonun yapısı ve örnek demo kayıtlar ile ilgili ekran görüntülerine aşağıda yer verilmiştir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ders tablosu : ders bilgilerinin saklandığı tablodur. ablonun yapısı ve örnek demo kayıtlar ile ilgili ekran görüntülerine aşağıda yer verilmiştir.
+
+
+
+
+
+ders tablosu : ders bilgilerinin saklandığı tablodur. ablonun yapısı ve örnek demo kayıtlar ile ilgili ekran görüntülerine aşağıda yer verilmiştir.
+
+
+
+fakulte tablosu : fakülte bilgilerinin saklandığı tablodur. ablonun yapısı ve örnek demo kayıtlar ile ilgili ekran görüntülerine aşağıda yer verilmiştir.
+
+
+
+
+ogretim_uyesi tablosu : Öğretim üyelerine ait bilgilerinin saklandığı tablodur. ablonun yapısı ve örnek demo kayıtlar ile ilgili ekran görüntülerine aşağıda yer verilmiştir.
+
+
+
+
+
+
+
+sinav tablosu : sinav ait bilgilerinin saklandığı tablodur. ablonun yapısı ve örnek demo kayıtlar ile ilgili ekran görüntülerine aşağıda yer verilmiştir.
+
+3. SQL Sorguları
+
+1.Sorgu: fakulte_Id değeri 1 olan bölümlerin sadece bolum_ad kolonunu listeleyen SQL sorgusu.
+
+
+
+
+2.Sorgu: fakulte_Id değeri 1 olan bölümleri listeleyen SQL sorgusu.
+
+3.Sorgu: bolum_Id değeri 1 olan derslerin sadece ders_ad kolonunu listeleyen SQL sorgusu.
+
+4.Sorgu: bolum_Id değeri 1 olan dersleri listeleyen SQL sorgusu.
+

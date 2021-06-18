@@ -1,0 +1,4 @@
+G:\FreeLance\mehmetrt\01_source-code\05_project\ProgTem\Soru3\bin\Debug\Soru3.exe
+G:\FreeLance\mehmetrt\01_source-code\05_project\ProgTem\Soru3\bin\Debug\Soru3.pdb
+G:\FreeLance\mehmetrt\01_source-code\05_project\ProgTem\Soru3\obj\Debug\Soru3.exe
+G:\FreeLance\mehmetrt\01_source-code\05_project\ProgTem\Soru3\obj\Debug\Soru3.pdb

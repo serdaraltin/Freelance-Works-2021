@@ -1,0 +1,10 @@
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru5\bin\Debug\soru5.exe
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru5\bin\Debug\soru5.pdb
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru5\bin\Debug\soru5.xml
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru5\obj\Debug\soru5.vbprojResolveAssemblyReference.cache
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru5\obj\Debug\soru5.Form1.resources
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru5\obj\Debug\soru5.Resources.resources
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru5\obj\Debug\soru5.vbproj.GenerateResource.Cache
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru5\obj\Debug\soru5.exe
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru5\obj\Debug\soru5.xml
+X:\main\Freelance\mehmet212\01_source-code\05_project\project\soru5\obj\Debug\soru5.pdb

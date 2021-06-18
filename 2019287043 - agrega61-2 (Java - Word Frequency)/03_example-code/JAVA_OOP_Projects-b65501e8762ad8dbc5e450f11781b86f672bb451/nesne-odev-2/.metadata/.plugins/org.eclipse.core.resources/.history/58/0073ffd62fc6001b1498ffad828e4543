@@ -1,0 +1,31 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Dictionary;
+import java.util.Hashtable;
+import java.util.Enumeration;
+
+@SuppressWarnings({ "serial", "hiding" })
+public class GetFreq<String,Values> extends Dictionary<String, Integer>{
+	
+	public void freqs(ArrayList<java.lang.String> a,ArrayList<java.lang.String> a2,ArrayList<java.lang.String> a3,MyHashSet<String> hash)
+	{
+		Integer count;
+		for(String token:hash)
+		{
+			count=(Collections.frequency(a, token)+Collections.frequency(a2, token)+Collections.frequency(a3, token));
+			this.put(token, count);
+		}	
+	}
+	public void showValues()
+	{
+		for(String token: this.keys())
+		{
+			System.out.println(token+":\t"+);
+		}
+	}
+	
+
+	
+}

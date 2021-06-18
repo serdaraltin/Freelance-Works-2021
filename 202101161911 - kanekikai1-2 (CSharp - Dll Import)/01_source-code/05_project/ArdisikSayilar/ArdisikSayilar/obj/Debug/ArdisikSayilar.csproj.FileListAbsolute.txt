@@ -1,0 +1,7 @@
+G:\FreeLance\1-kanekikai1-2 (CSharp - Dll Import)\01_source-code\05_project\ArdisikSayilar\ArdisikSayilar\bin\Debug\ArdisikSayilar.exe
+G:\FreeLance\1-kanekikai1-2 (CSharp - Dll Import)\01_source-code\05_project\ArdisikSayilar\ArdisikSayilar\bin\Debug\ArdisikSayilar.pdb
+G:\FreeLance\1-kanekikai1-2 (CSharp - Dll Import)\01_source-code\05_project\ArdisikSayilar\ArdisikSayilar\bin\Debug\dllKutuphane.dll
+G:\FreeLance\1-kanekikai1-2 (CSharp - Dll Import)\01_source-code\05_project\ArdisikSayilar\ArdisikSayilar\obj\Debug\ArdisikSayilar.csprojResolveAssemblyReference.cache
+G:\FreeLance\1-kanekikai1-2 (CSharp - Dll Import)\01_source-code\05_project\ArdisikSayilar\ArdisikSayilar\obj\Debug\ArdisikSayilar.exe
+G:\FreeLance\1-kanekikai1-2 (CSharp - Dll Import)\01_source-code\05_project\ArdisikSayilar\ArdisikSayilar\obj\Debug\ArdisikSayilar.pdb
+G:\FreeLance\1-kanekikai1-2 (CSharp - Dll Import)\01_source-code\05_project\ArdisikSayilar\ArdisikSayilar\bin\Debug\dllKutuphane.pdb

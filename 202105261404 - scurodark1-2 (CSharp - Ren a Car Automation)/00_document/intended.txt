@@ -1,0 +1,2 @@
+Eklenen aracın resmini bilgisayardan seçip listelenen araçlarda aracın resminin gözükmesi.
+Bir de tarih seçimini takvim üzerinden yapmak.(kiralanan tarih - araç teslim tarihi) şeklinde iki seçim yapılması.

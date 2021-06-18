@@ -1,0 +1,3 @@
+2,4,serdar,altın,1111111,34
+1,5,sssss,aaaa,1111111,23
+0,6,Ahmet,Balaban,123123123123,34

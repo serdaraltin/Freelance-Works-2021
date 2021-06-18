@@ -1,0 +1,69 @@
+package rez;
+
+import java.io.IOException;
+import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
+
+public class BiletUygulamasi {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<String> veriler = new ArrayList<String>();
+		Integer []salonNo = new Integer[5];
+		Integer [] siraNo= new Integer[5];
+		Integer [] koltukNo= new Integer[5];
+		boolean [] durum = new boolean[5];
+		int i =0,k=0;
+		LocalDate date = LocalDate.now();
+		TextReader reader = new TextReader();
+		try {
+			veriler=reader.readText("C:\\Users\\fatih\\OneDrive\\Masaï¿½stï¿½\\nesne-vize\\BiletRezervasyonu\\dosya", "UTF-8");
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			System.out.println("Dosyayï¿½ okurken bir hata meydana geldi");
+		}
+		for(String word:veriler)
+		{
+			if(i%4==0)
+			{
+				salonNo[k]=Integer.parseInt(word);
+			}
+			else if(i%4==1)
+			{
+				siraNo[k]=Integer.parseInt(word);
+			}
+			else if(i%4==2)
+			{
+				koltukNo[k]=Integer.parseInt(word);
+			}
+			else
+			{
+				if(word=="dolu")
+					durum[k]=true;
+				else
+					durum[k]=false;
+				k++;
+				
+			}
+			i++;	
+		}
+		Koltuk koltuk = new Koltuk(siraNo[0], koltukNo[0], durum[0]);
+		Koltuk koltuk1 = new Koltuk(siraNo[1], koltukNo[1], durum[1]);
+		Koltuk koltuk2 = new Koltuk(siraNo[2], koltukNo[2], durum[2]);
+		Koltuk koltuk3 = new Koltuk(siraNo[3], koltukNo[3], durum[3]);
+		Koltuk koltuk4 = new Koltuk(siraNo[4], koltukNo[4], durum[4]);
+		Koltuk [] koltuklar= new Koltuk[50];
+		koltuklar[0]=koltuk;
+		koltuklar[1]=koltuk1;
+		koltuklar[2]=koltuk2;
+		koltuklar[3]=koltuk3;
+		koltuklar[4]=koltuk4;
+		Gösterim gosterim = new Gösterim(2, 3, true, "Yï¿½zï¿½klerin Efendisi","2. seans",date, salonNo[0],koltuklar);
+		Ticket ticket = new Ticket(2, 3, true, "Yï¿½zï¿½klerin Efendisi","2. seans",date, salonNo[0],koltuklar, "Fatih", "Karadeniz", "11111111", 25, gï¿½sterim);
+		IndirimliBilet bilet= new IndirimliBilet(2, 3, true, "Yï¿½zï¿½klerin Efendisi","2. seans",date, salonNo[0],koltuklar, "Fatih", "Karadeniz", "11111111", 25, gï¿½sterim, "1234",10);
+		System.out.println(ticket.toString());
+		System.out.println(bilet.toString());
+	}
+
+}

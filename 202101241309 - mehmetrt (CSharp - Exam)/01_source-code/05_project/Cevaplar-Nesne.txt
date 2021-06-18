@@ -1,0 +1,76 @@
+Soru 1 >>
+
+Public Class Form1
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim metin As String = TextBox1.Text
+        Dim metinKarakter As Char() = metin.ToCharArray
+        Dim sayiAdet As Integer = 0
+        For Each karakter In metinKarakter
+            If Char.IsNumber(karakter) Then
+                sayiAdet += 1
+            End If
+        Next
+        Label1.Text = "Sayi Adet : " + sayiAdet.ToString
+        MsgBox(sayiAdet.ToString + " adet sayi vardir")
+    End Sub
+End Class
+
+
+
+Soru 2 >>
+
+Public Class Form1
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
+        Dim myBrush As SolidBrush = New SolidBrush(Color.Yellow)
+        Dim formGraphics As Graphics
+        formGraphics = Me.CreateGraphics
+        formGraphics.FillPie(myBrush, New Rectangle(40, 5, 200, 200), -45, 135)
+    End Sub
+End Class
+
+
+Soru 3 >>
+
+Public Class Form1
+    Public Function HESAPLA(sayi As Integer) As Integer
+        Dim fibonacci(sayi + 1) As Integer
+        fibonacci(0) = 0
+        fibonacci(1) = 1
+        For index = 2 To sayi + 1
+            fibonacci(index) = fibonacci(index - 1) + fibonacci(index - 2)
+        Next
+        Return fibonacci(sayi + 1)
+    End Function
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim sayi As Integer = Convert.ToInt32(TextBox1.Text)
+        MsgBox("Fibonacci " + sayi.ToString + ". elemani : " + HESAPLA(sayi).ToString)
+    End Sub
+End Class
+
+
+Soru 4 >>
+
+Imports System.Data.OleDb
+Imports System.Data
+Public Class Form1
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        ComboBox1.Items.Clear()
+        Dim baglanti As OleDbConnection = New OleDbConnection("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=market.mdb")
+        baglanti.Open()
+        Dim komut As OleDbCommand = New OleDbCommand("Select Ad,Soyad From musteriler Where Bakiye>1000", baglanti)
+        Dim da As OleDbDataReader = komut.ExecuteReader
+        While da.Read
+            ComboBox1.Items.Add(da("Ad").ToString + " " + da("Soyad").ToString)
+        End While
+        ComboBox1.SelectedIndex = 0
+        baglanti.Close()
+    End Sub
+End Class
+
+ 

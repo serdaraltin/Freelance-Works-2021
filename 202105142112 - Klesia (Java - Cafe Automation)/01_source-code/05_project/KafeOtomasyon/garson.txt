@@ -1,0 +1,2 @@
+12345678910,Ahmet,Bal,0542665465,ahmet@mail.com,istanbul
+12345678911,Halit,Tepe,0546455465,halit@mail.com,adana

@@ -1,0 +1,5 @@
+G:\FreeLance\2-Deniz3458\01_source-code\05_project\KanBagis\KanBagis\bin\Debug\KanBagis.exe
+G:\FreeLance\2-Deniz3458\01_source-code\05_project\KanBagis\KanBagis\bin\Debug\KanBagis.pdb
+G:\FreeLance\2-Deniz3458\01_source-code\05_project\KanBagis\KanBagis\obj\Debug\KanBagis.csprojResolveAssemblyReference.cache
+G:\FreeLance\2-Deniz3458\01_source-code\05_project\KanBagis\KanBagis\obj\Debug\KanBagis.exe
+G:\FreeLance\2-Deniz3458\01_source-code\05_project\KanBagis\KanBagis\obj\Debug\KanBagis.pdb

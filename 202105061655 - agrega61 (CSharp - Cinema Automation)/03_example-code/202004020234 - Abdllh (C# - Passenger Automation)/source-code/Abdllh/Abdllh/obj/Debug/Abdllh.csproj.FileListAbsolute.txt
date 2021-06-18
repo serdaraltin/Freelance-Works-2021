@@ -1,0 +1,12 @@
+Y:\Sadeceon\Abdllh\source-code\Abdllh\Abdllh\bin\Debug\Abdllh.exe.config
+Y:\Sadeceon\Abdllh\source-code\Abdllh\Abdllh\bin\Debug\Abdllh.exe
+Y:\Sadeceon\Abdllh\source-code\Abdllh\Abdllh\bin\Debug\Abdllh.pdb
+Y:\Sadeceon\Abdllh\source-code\Abdllh\Abdllh\obj\Debug\Abdllh.csprojResolveAssemblyReference.cache
+Y:\Sadeceon\Abdllh\source-code\Abdllh\Abdllh\obj\Debug\Abdllh.exe
+Y:\Sadeceon\Abdllh\source-code\Abdllh\Abdllh\obj\Debug\Abdllh.pdb
+X:\main\Freelance\agrega61\03_example-code\202004020234 - Abdllh (C# - Passenger Automation)\source-code\Abdllh\Abdllh\bin\Debug\Abdllh.exe.config
+X:\main\Freelance\agrega61\03_example-code\202004020234 - Abdllh (C# - Passenger Automation)\source-code\Abdllh\Abdllh\bin\Debug\Abdllh.exe
+X:\main\Freelance\agrega61\03_example-code\202004020234 - Abdllh (C# - Passenger Automation)\source-code\Abdllh\Abdllh\bin\Debug\Abdllh.pdb
+X:\main\Freelance\agrega61\03_example-code\202004020234 - Abdllh (C# - Passenger Automation)\source-code\Abdllh\Abdllh\obj\Debug\Abdllh.csprojResolveAssemblyReference.cache
+X:\main\Freelance\agrega61\03_example-code\202004020234 - Abdllh (C# - Passenger Automation)\source-code\Abdllh\Abdllh\obj\Debug\Abdllh.exe
+X:\main\Freelance\agrega61\03_example-code\202004020234 - Abdllh (C# - Passenger Automation)\source-code\Abdllh\Abdllh\obj\Debug\Abdllh.pdb

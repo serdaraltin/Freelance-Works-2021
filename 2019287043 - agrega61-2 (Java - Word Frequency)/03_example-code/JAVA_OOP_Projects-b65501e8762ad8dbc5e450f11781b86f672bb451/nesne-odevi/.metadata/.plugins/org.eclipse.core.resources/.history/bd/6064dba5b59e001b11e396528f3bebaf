@@ -1,0 +1,30 @@
+package it;
+
+public class StudentAffairsApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		IStudent std1= new UnderGraduate();
+		std1.setStdNo(2008291014);
+		std1.setStdName("HAMİYET");
+		std1.setStdSirName("MANDIRALI");
+		std1.setStdDepartment("MATEMATİK");
+		std1.addLesson("MAT101", "Matematik1", 6, 62);
+		std1.addLesson("MAT107", "Soyut Matematik", 6, 60);
+		std1.addLesson("FSH333", "Hayat Bilgisi", 8, 60);
+		
+		IStudent std2= new UnderGraduate();
+		std2.setStdNo(2008291022);
+		std2.setStdName("TANER");
+		std2.setStdSirName("İNER");
+		std2.setStdDepartment("ASTROFİZİK");
+		std2.addLesson("MAT101", "Matematik1", 6, 62);
+		std2.addLesson("MAT107", "Soyut Matematik", 6, 60);
+		std2.addLesson("FSH333", "Hayat Bilgisi", 8, 60);
+		
+		System.out.println(std1.toString());
+		System.out.println(std1.cumulativeSuccessGrade());
+	
+	}
+
+}

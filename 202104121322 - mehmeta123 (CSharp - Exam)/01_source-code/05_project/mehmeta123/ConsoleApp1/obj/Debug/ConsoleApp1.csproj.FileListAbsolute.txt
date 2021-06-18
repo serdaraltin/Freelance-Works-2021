@@ -1,0 +1,4 @@
+Y:\main\Freelance\mehmeta123\01_source-code\05_project\mehmeta123\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+Y:\main\Freelance\mehmeta123\01_source-code\05_project\mehmeta123\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+Y:\main\Freelance\mehmeta123\01_source-code\05_project\mehmeta123\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+Y:\main\Freelance\mehmeta123\01_source-code\05_project\mehmeta123\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,7 @@
+package it;
+
+
+public interface IStudent {
+	int stdNo = 0;
+	
+}

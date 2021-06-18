@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v5.0": {},
+    ".NETFramework,Version=v5.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Main\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\FreeLance\\BKTEI\\01_source-code\\05_project\\05_project.csproj",
+      "projectName": "05_project",
+      "projectPath": "G:\\FreeLance\\BKTEI\\01_source-code\\05_project\\05_project.csproj",
+      "outputPath": "G:\\FreeLance\\BKTEI\\01_source-code\\05_project\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "net50"
+      ],
+      "frameworks": {
+        "net50": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net50": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

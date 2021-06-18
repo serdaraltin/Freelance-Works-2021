@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jdk.jfr.Unsigned"/>
+    <fullyQualifiedTypeName name="it.IStudent"/>
+    <fullyQualifiedTypeName name="it.IClasses"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="it.PostGraduate"/>
+    <fullyQualifiedTypeName name="itDepartment.IStudent"/>
+</qualifiedTypeNameHistroy>

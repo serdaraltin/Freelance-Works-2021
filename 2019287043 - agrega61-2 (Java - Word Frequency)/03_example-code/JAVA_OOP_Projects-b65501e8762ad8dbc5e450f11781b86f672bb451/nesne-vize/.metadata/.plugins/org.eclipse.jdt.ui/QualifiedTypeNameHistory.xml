@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="rez.Koltuk"/>
+    <fullyQualifiedTypeName name="rez.Gösterim"/>
+    <fullyQualifiedTypeName name="rez.Ticket"/>
+    <fullyQualifiedTypeName name="rez.TextReader"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="rez.IndirimliBilet"/>
+</qualifiedTypeNameHistroy>

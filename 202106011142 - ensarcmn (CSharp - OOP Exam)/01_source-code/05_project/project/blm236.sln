@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru2", "soru2\soru2.csproj", "{665B67CB-D14D-4907-9F72-DF716B189FE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru3", "soru3\soru3.csproj", "{E6102F5B-5157-4378-BB91-82E0FDAE01F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru1", "soru1\soru1.csproj", "{C7FD09AB-482A-411C-9628-CB29306A5EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{665B67CB-D14D-4907-9F72-DF716B189FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665B67CB-D14D-4907-9F72-DF716B189FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665B67CB-D14D-4907-9F72-DF716B189FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665B67CB-D14D-4907-9F72-DF716B189FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6102F5B-5157-4378-BB91-82E0FDAE01F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6102F5B-5157-4378-BB91-82E0FDAE01F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6102F5B-5157-4378-BB91-82E0FDAE01F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6102F5B-5157-4378-BB91-82E0FDAE01F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7FD09AB-482A-411C-9628-CB29306A5EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FD09AB-482A-411C-9628-CB29306A5EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FD09AB-482A-411C-9628-CB29306A5EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FD09AB-482A-411C-9628-CB29306A5EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

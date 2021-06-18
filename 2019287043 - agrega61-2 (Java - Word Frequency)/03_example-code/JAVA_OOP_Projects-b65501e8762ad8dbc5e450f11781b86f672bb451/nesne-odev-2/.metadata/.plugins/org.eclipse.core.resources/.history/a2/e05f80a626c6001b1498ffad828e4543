@@ -1,0 +1,34 @@
+package main;
+import java.util.Scanner;
+
+public abstract class OdevApplication{
+
+	@SuppressWarnings("resource")
+	public static void main(String[] args) {
+		// TODO Auto-generated method stu
+		
+		MyList<String> myList = new MyList<String>();
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Lütfen 1. metni giriniz:");
+		String p1 = scanner.nextLine();
+		System.out.println("Lütfen 2. metni giriniz:");
+		String p2 = scanner.nextLine();
+		System.out.println("Lütfen 3. metni giriniz:");
+		String p3 = scanner.nextLine();
+		myList.add(p1);
+		myList.add(p2);
+		myList.add(p3);
+		MyList<String> p1Tokens= new MyList<String>();
+		p1Tokens.tokenizeValues(p1);
+		MyList<String> p2Tokens= new MyList<String>();
+		p2Tokens.tokenizeValues(p2);
+		MyList<String> p3Tokens= new MyList<String>();
+		p3Tokens.tokenizeValues(p3);
+		System.out.println("Toplam girilen sözcük: "+(p1Tokens.size()+p2Tokens.size()+p3Tokens.size()));
+		MyHashSet<String> hashSet=new MyHashSet<String>();
+		System.out.println(p1Tokens);
+		hashSet.addPTokens(p1Tokens,p2Tokens,p3Tokens);
+		System.out.println(hashSet.toString());
+	}
+
+}

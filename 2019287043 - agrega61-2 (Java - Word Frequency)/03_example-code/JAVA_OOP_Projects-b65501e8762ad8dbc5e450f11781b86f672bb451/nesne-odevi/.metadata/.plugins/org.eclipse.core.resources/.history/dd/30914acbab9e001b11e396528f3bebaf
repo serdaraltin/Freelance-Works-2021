@@ -1,0 +1,9 @@
+package it;
+
+public interface IClasses {
+	int [10] lessonNo;
+	String lessonName="";
+	int lessonEcts=0;
+	double examGrade=0;
+	
+}

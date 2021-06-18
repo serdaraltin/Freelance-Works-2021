@@ -1,0 +1,16 @@
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Anasayfa.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Giris.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Hakkinda.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Islem.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Kullanici.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_VeritabaniBaglanti.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Properties.Resources.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.csproj.GenerateResource.Cache
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.exe.config
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.exe
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.pdb
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.exe
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.pdb
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Arac.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Musteri.resources
+G:\FreeLance\Ece45224\01_source-code\05_project\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Form_Kiralama.resources

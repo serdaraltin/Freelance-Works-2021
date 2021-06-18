@@ -1,0 +1,14 @@
+1. Write a program in C to read n number of values in an array and display it in reverse order. 
+2. Write a program in C to copy the elements of one array into another array. 
+3. Write a program in C to count a total number of duplicate elements in an array. You must apply a suitable function in your code. 
+4. Write a program in C to print all unique elements in an array. 
+5. Write a program in C to merge two arrays of same size sorted in decending order. 
+6. Write a program in C to count the frequency of each element of an array. 
+7. Write a program in C to find the maximum and minimum element in an array. You must apply a suitable function in your code. 
+8. Write a program in C to separate odd and even integers in separate arrays. 
+9. Write a program in C to delete an element at desired position from an array. 
+10. Write a program in C to find the second smallest element in an array. You must apply a suitable function in your code. 
+11. Write a program in C for addition of two Matrices of same size. 12. Write a program in C to find transpose of a given matrix. 
+13. Write a program in C to find sum of right diagonals of a matrix. You must apply a suitable function in your code. 
+14. Write a program in C to find sum of rows an columns of a Matrix. You must apply a suitable function in your code. 
+15. Write a program in C to calculate determinant of a 3 x 3 matrix. You must apply a suitable function in your code. 

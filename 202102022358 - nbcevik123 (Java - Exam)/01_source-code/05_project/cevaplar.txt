@@ -1,0 +1,144 @@
+a)
+    ClassA is created
+    Method1 is called with ClassA
+
+b)
+    ClassA is created
+    ClassB is created
+    Method1 is called with ClassA
+    Method1 is called with ClassB
+
+c)
+    Hatalı >> Derleme zamanı
+    Nedeni >> method2 ClassA' da tanımlı değil
+
+d)
+    Hatalı >> Sınıf dönüştürme
+    Nedeni >> Başka bir alt sınıfa dönüştürülmeye çalışılması
+
+e)
+    ClassA is created with n: 2
+    ClassB is created with m: 3
+
+f)
+    ClassA is created
+    ClassC is created
+    Method1 is called with ClassC
+    Method1 is called with ClassA
+
+
+a-) 
+
+    import java.util.Scanner;
+
+    public class kisim2 {
+
+        public static void main(String[] args) {
+            while (true) {
+                Scanner scanner = new Scanner(System.in);
+                System.out.print("Enter a text: ");
+                String text = scanner.nextLine();
+                System.out.print("Reverse     : ");
+                String[] textArray = text.split(" ");
+
+                for (String word : textArray) {
+                    for (int i = word.length() - 1; i >= 0; i--) {
+                        System.out.print(word.charAt(i));
+                    }
+                    System.out.print(" ");
+                }
+                System.out.println("");
+            }
+        }
+    }
+
+
+b-)
+    import java.util.Scanner;
+
+    public class kisim3 {
+
+        public static String convert(String input) {
+
+            String convertedText = "";
+            String[] textArray = input.split(" ");
+
+            for (String word : textArray) {
+                int aPiece = 0;
+                if (word.charAt(0) == 'a') {
+                    aPiece--;
+                }
+                for (int i = 0; i < word.length(); i++) {
+
+                    if (word.charAt(i) == 'a') {
+                        aPiece++;
+                        if (aPiece == 2) {
+                            convertedText += 'A';
+                            continue;
+                        }
+                    }
+                    convertedText += word.charAt(i);
+                }
+                convertedText += " ";
+            }
+
+            return convertedText;
+        }
+
+        public static void main(String[] args) {
+            while (true) {
+                Scanner scanner = new Scanner(System.in);
+                System.out.print("Enter a text : ");
+                String input = scanner.nextLine();
+                System.out.println("Converted    : " + convert(input));
+            }
+
+        }
+    }
+
+c-)
+    import java.util.Scanner;
+
+    public class kisim4 {
+
+        public static boolean balanceControl(String input) {
+            int ch1Piece = 0, ch2Piece = 0;
+
+            for (int i = 0; i < input.length(); i++) {
+                if (input.charAt(i) == '(') {
+                    ch1Piece++;
+                }
+                if (input.charAt(i) == ')') {
+                    ch2Piece++;
+                }
+            }
+            return ch1Piece <= ch2Piece;
+        }
+
+        public static void main(String[] args) {
+            while (true) {
+                Scanner scanner = new Scanner(System.in);
+                System.out.print("Enter a String: ");
+                String input = scanner.nextLine();
+
+                if (balanceControl(input)) {
+                    System.out.println("This string is parenthesis-balanced.");
+                } else {
+                    System.out.println("This string is not parenthesis-balanced.");
+                }
+            }
+        }
+    }
+
+
+
+Parametre olarak iki nesne...
+
+    private static String findHeavies(IPonderable item1, IPonderable item2) {
+        if (item1.getWeight() <= item2.getWeight()) {
+            return item2.toString();
+        } else if (item1.getWeight() > item2.getWeight()) {
+            return item1.toString();
+        }
+        return null;
+    }

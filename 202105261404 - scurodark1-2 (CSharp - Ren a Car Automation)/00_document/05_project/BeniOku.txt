@@ -1,0 +1,13 @@
+Bu proje;
+	Visual Studio 2017
+	MSSQL Server 2012
+
+ile yapılmıştır, çalıştırılabilmesi için MSSQL server zorunludur.
+
+Proje kapsamında tek bir sınıf üzerinden veritabanı işlemleri yürütülmektedir.
+
+Bu sınıf genel olarak tablodan bağımsız şekilde işlemleri gerçekleştirebilmektedir.
+
+Stored Procedure'ler ile hem daha az kodlama yapılıp hem de daha fazla güvenlik sağlanmıştır.
+
+SQL sorguları direct program içererisinde değil Server tarafında Stored Procedure'ler yardımı ile gerçekleştirilmiştir.

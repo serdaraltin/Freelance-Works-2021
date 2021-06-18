@@ -1,0 +1,15 @@
+c# veteriner otomasyon
+
+Hasta bilgisi
+Hasta sahip bilgisi
+İlaç bilgisi
+Hesap bilgisi
+Randevu bilgisi
+Operasyon (ameliyat muayeye) bilgisi
+Tedarikçi bilgisi
+Personel bilgisi
+
+
+Bunlar kesinlikle olsun bikaç şeyde siz eklerseniz çok iyi olur
+Son Teslim Tarihi = 10.06.2021 20.00
+

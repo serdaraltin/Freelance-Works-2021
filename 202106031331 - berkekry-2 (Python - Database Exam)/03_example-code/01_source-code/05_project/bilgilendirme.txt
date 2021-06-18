@@ -1,0 +1,4 @@
+.doc > word belgesi kod çıktıları
+.png > veritabanı diagramı
+.mdf ve .ldf > veritabanı yedeği dosyası
+.sql > veritabanının sıfırdan inşaa script dosyası

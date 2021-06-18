@@ -1,0 +1,22 @@
+Bir hastane, her doktorun sorumlu olduğu doktorları ve hastaları takip etmeye isteklidir. Özel olarak
+bilgi: 
+Bir doktorun adı, yaşı, sosyal güvenlik numarası sabit, ofis numarası, yılların deneyimi ve
+hastaları; 
+Bir hastanın sabit bir adı, yaşı ve sosyal güvenlik numarası vardır. Bazı hastalar hastalara para ödüyor,
+Bu hastalar için hastanede kaldıkları gün sayısını, günlük ücreti ve tedavi ücretini tutmamız gerekiyor.
+a) Gerekli sınıfları tanımlayın ve bunların değerlerini almak ve ayarlamak için gerekli işlevleri genel bölümlerine ekleyin.
+özel değişkenler.
+b) Aşağıdaki görevleri yapmak için diğer genel / arkadaş işlevlerini ekleyin:
+1) Özellikleri düzenli (formatlanmış) bir şekilde yazdırmak için her sınıfta yazdırma işlevi. Örneğin,
+formdaki belirli bir hastanın özellikleri, her biri sol tarafta başlığı olan ayrı bir satırda ve " Hasta
+Formun başlığı olarak Bilgi ".
+2) Özel değişkenlerin değerlerini okumak için her sınıftaki işlevi okuyun.
+3) Ödeme yapan hasta sınıfının toplam giderleri hesaplamak için bir arkadaş işlevi.
+4) Hasta sınıfında iki kurucu: 1. varsayılan kurucu. 2. özel değişken başına bir yapıcı.
+5) Diğer sınıflardan en az bir kurucu.
+6) Her sınıfın yıkıcısı.
+7 ) Bir metin dosyasından 3 doktor, 4 normal doktorla ilgili bilgileri okuduğunuz genel bir fonksiyon yazın.
+hastalar, 2 ödeme yapan hasta ve diğer üç kategorinin hiçbirinde olmayan 3 kişi.
+Çeşitli sınıflardaki bazı nesneleri tanımlamak için bir ana yazın ve nesneleri giriş yapmak için (7) 'deki işlevi çağırın.
+dosya (metin dosyası olması gereken dosyanın fiziksel ve yerel adına karar verirsiniz). Nesneleri ikili olarak yazın
+dosyalar, sınıf başına bir tane olmak üzere, yine ikili dosyaların fiziksel ve mantıksal adlarına karar verir.

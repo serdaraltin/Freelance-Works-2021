@@ -1,0 +1,2 @@
+1,Kahve,ml,13
+2,Kola,ml,9

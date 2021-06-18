@@ -1,0 +1,10 @@
+package it;
+
+
+public interface IStudent extends IClasses {
+	protected int stdNo;
+	protected String stdName;
+	protected String stdSirName;
+	protected String stdDepartment;
+	double cumulativeSuccessGrade();
+}

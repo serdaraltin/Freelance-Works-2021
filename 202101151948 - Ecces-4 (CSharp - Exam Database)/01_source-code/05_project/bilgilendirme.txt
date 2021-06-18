@@ -1,0 +1,6 @@
+burada bir C# form uygulaması bulunmaktadır hizmete dahil olmasa da kolaylık sağlaması için
+ücretsiz olarak kodlanmıştır.
+bu uygulamayı başlatıp bağlantı bilgilerini girdikten sonra kolay bir şekilde istediğiniz kadar kayıt oluşturabilirsiniz.
+
+visual studio 2017
+ms sql server 2016 

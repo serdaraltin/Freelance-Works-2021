@@ -1,0 +1,53 @@
+<Project>
+  <Name>uml</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>program</Name>
+    <Language>CSharp</Language>
+    <Entities />
+    <Relationships />
+  </ProjectItem>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>AracOtomasyon.exe</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>Program</Name>
+        <Access>Internal</Access>
+        <Location left="538" top="112" />
+        <Size width="360" height="620" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">private static ArrayList arabalar</Member>
+        <Member type="Field">private static ArrayList sirketler</Member>
+        <Member type="Field">private static ArrayList musteriler</Member>
+        <Member type="Field">private static ArrayList siparisler</Member>
+        <Member type="Field">private static ArrayList servisler</Member>
+        <Member type="Constructor">public Program()</Member>
+        <Member type="Constructor">static Program()</Member>
+        <Member type="Method">private static Void Main(String[] args)</Member>
+        <Member type="Method">private static Void Menu()</Member>
+        <Member type="Method">private static Void EkleAraba()</Member>
+        <Member type="Method">private static Void YazdirAraba(Object[] araba)</Member>
+        <Member type="Method">private static Void YazdirAraba(Object[] araba, Int32 no)</Member>
+        <Member type="Method">private static Void ListeleAraba()</Member>
+        <Member type="Method">private static Void EkleSirket()</Member>
+        <Member type="Method">private static Void ListeleSirket()</Member>
+        <Member type="Method">private static Void YazdirSirket(Object[] sirket)</Member>
+        <Member type="Method">private static Void YazdirSirket(Object[] sirket, Int32 no)</Member>
+        <Member type="Method">private static Void EkleMusteri()</Member>
+        <Member type="Method">private static Void ListeleMusteri()</Member>
+        <Member type="Method">private static Void YazdirMusteri(Object[] musteri)</Member>
+        <Member type="Method">private static Void YazdirMusteri(Object[] musteri, Int32 no)</Member>
+        <Member type="Method">private static Void EkleSiparis()</Member>
+        <Member type="Method">private static Void ListeleSiparis()</Member>
+        <Member type="Method">private static Void YazdirSiparis(Object[] siparis)</Member>
+        <Member type="Method">private static Void YazdirSiparis(Object[] siparis, Int32 no)</Member>
+        <Member type="Method">private static Void EkleServis()</Member>
+        <Member type="Method">private static Void ListeleServis()</Member>
+        <Member type="Method">private static Void YazdirServis(Object[] servis)</Member>
+        <Member type="Method">private static Void YazdirServis(Object[] servis, Int32 no)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships />
+  </ProjectItem>
+</Project>

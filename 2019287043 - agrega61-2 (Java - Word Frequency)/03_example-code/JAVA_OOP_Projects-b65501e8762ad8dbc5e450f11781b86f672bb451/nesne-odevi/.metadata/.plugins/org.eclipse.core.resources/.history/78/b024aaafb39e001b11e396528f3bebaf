@@ -1,0 +1,18 @@
+package it;
+
+public class Doctorate extends Graduate {
+
+	String underGraduateScholl;
+	private String underGraduateDepartment;
+	private String postGraduateSchool;
+	private String postGraduateDepartment;
+	public Doctorate(String underGraduateScholl,String underGraduateDepartment,String postGraduateSchool, String postGraduateDepartment) {
+		super();
+		// TODO Auto-generated constructor stub
+		this.underGraduateScholl=underGraduateScholl;
+		this.underGraduateDepartment=underGraduateDepartment;
+		
+		
+	}
+
+}

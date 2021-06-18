@@ -1,0 +1,4 @@
+Proje;
+Visual Studio 2017
+MSSql Server 2016
+kullanılarak yapılmıştır.

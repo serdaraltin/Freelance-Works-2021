@@ -1,0 +1,8 @@
+G:\FreeLance\levo123 (CSharp - OOP Exam)\01_source-code\05_project\Soru-1\Soru-1\bin\Debug\Soru-1.exe
+G:\FreeLance\levo123 (CSharp - OOP Exam)\01_source-code\05_project\Soru-1\Soru-1\bin\Debug\Soru-1.pdb
+G:\FreeLance\levo123 (CSharp - OOP Exam)\01_source-code\05_project\Soru-1\Soru-1\obj\Debug\Soru-1.csprojResolveAssemblyReference.cache
+G:\FreeLance\levo123 (CSharp - OOP Exam)\01_source-code\05_project\Soru-1\Soru-1\obj\Debug\Soru_1.Form1.resources
+G:\FreeLance\levo123 (CSharp - OOP Exam)\01_source-code\05_project\Soru-1\Soru-1\obj\Debug\Soru_1.Properties.Resources.resources
+G:\FreeLance\levo123 (CSharp - OOP Exam)\01_source-code\05_project\Soru-1\Soru-1\obj\Debug\Soru-1.csproj.GenerateResource.Cache
+G:\FreeLance\levo123 (CSharp - OOP Exam)\01_source-code\05_project\Soru-1\Soru-1\obj\Debug\Soru-1.exe
+G:\FreeLance\levo123 (CSharp - OOP Exam)\01_source-code\05_project\Soru-1\Soru-1\obj\Debug\Soru-1.pdb

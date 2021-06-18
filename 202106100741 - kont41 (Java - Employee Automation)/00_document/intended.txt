@@ -1,0 +1,17 @@
+merhaba.personel takip otomasyonu uygulama.
+çok profesyonel olmasına gerek yok.
+veritabanı bağlantısı olacak (biz mssql kullanıyoruz).
+java ile yapılacak.
+normal bir arayüz,personel ekleme çıkarma güncelleme silme ve listeleme olacak.
+giriş yapma olacak (id-pw admin 123 gibi).
+admin id si ile girince yetkiler olacak.
+personel id si ile girince işlem yapılamayacak sadece bilgiler görüntülenebilecek.
+seçilen personelin bilgisini görüntüleme olcak(doğum tarihi,isim,soyisim,tc no,maaşı,ünvanı).
+personele izin verme sekmesi olacak isim soyisim ve izinli olduğu tarihler yazılcak,
+izinli olduğu gün sayısı günlük ücretiyle çarpılıp maaşından düşecek.
+günlük ücret gibi sayılar rastgele olabilir.
+100 tl gibi.proje db si ile birlikte gerekiyor.
+
+ve birde ilk admin yeni admin oluşturabilecek ve personellere admin yetkisi tanıyıp geri çekebilecek.
+teslim tarihi ise şimdilik 11 i.
+ancak uzama ihtimalide var sizinle paylaşacağım.

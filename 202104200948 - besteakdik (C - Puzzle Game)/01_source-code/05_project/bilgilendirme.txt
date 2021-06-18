@@ -1,0 +1,5 @@
+Mevcut tarih itibari ile aynı ödevden bir kişi daha hizmet almıştır.
+Bu durumda kod mümkün olduğunda diğer kişi için değiştirilecektir fakat kodu yazan aynı kişi olduğundan yazım alışkanlıkları aynı olacaktır.
+Yukarıda belirtilen nedenden dolayı kodu kendinizinde olabildiğince değişime uğratmanız önerilmektedir.
+
+Teşekkürler.

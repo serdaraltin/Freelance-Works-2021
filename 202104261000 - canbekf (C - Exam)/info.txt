@@ -1,0 +1,39 @@
+İncelenip olumlu olması durumunda bilgi verilecektir.
+-----------------------------------------------------------------------------------------
+İncelenmiştir ve maalesef istenilen hizmete dahil değildir.
+-----------------------------------------------------------------------------------------
+Kodlama için fiyat olarak 150 TL belirlenmiştir.
+Sipariş vermek için ekstralardan 150 TL'ye tamamlayacak şekilde seçim yapınız.
+-----------------------------------------------------------------------------------------
+Kodlama için fiyat olarak 250 TL belirlenmiştir.
+
+Sipariş için;
+
+İlk olarak sadece 100 TL'lik sipariş verin.
+Ödev tamamlanıp tarafınıza teslimi gerçekleştikten sonra
+kalan ücret için bilgi verilecektir.
+-----------------------------------------------------------------------------------------
+Güvenlik gerekçesiyle dosya şifrelenmiştir.
+Sipariş onaylandığında parola bilgisi aktarılacaktır.
+
+Teşekkürler.
+
+Not : Kanıt görselleri "01_evidence" klasöründe yer almaktadır.
+----------------------------------------------------------------------------------------
+Siparişiniz tamamlanmıştır, sipariş bölümünü kontrol edip onaylayınız.
+!!! 2. siparişi size söylenmeden vermeyiniz !!!
+----------------------------------------------------------------------------------------
+Güvenlik gerekçesiyle dosya şifrelenmiştir.
+Sipariş onaylandığında parola bilgisi aktarılacaktır.
+
+Teşekkürler.
+
+Not : Kanıt görselleri "01_evidence" klasöründe yer almaktadır.
+
+ÖNEMLİ >>> !!! 2. SİPARİŞİ SİZE SÖYLENMEDEN KESİNLİKLE VERMEYİNİZ !!! <<< ÖNEMLİ
+----------------------------------------------------------------------------------------
+Siparişiniz tamamlanmıştir. 2. siparişi size söylenmeden vermeyiniz aksi halde fazladan komisyon alınmakta.
+----------------------------------------------------------------------------------------
+Son olarak siparişi onaylayınız ardından parola bilgisi iletilmektedir.
+----------------------------------------------------------------------------------------
+Parola bilgisi dosya eki olarak iletilmiştir.

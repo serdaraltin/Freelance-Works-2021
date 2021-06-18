@@ -1,0 +1,7 @@
+X:\FreeLance\ahmett06\01_source-code\05_project\185007022\AHMETCANGOZGORER\bin\Debug\AHMETCANGOZGORER.exe
+X:\FreeLance\ahmett06\01_source-code\05_project\185007022\AHMETCANGOZGORER\bin\Debug\AHMETCANGOZGORER.pdb
+X:\FreeLance\ahmett06\01_source-code\05_project\185007022\AHMETCANGOZGORER\obj\x86\Debug\AHMETCANGOZGORER.Form1.resources
+X:\FreeLance\ahmett06\01_source-code\05_project\185007022\AHMETCANGOZGORER\obj\x86\Debug\AHMETCANGOZGORER.Properties.Resources.resources
+X:\FreeLance\ahmett06\01_source-code\05_project\185007022\AHMETCANGOZGORER\obj\x86\Debug\AHMETCANGÖZGÖRER.csproj.GenerateResource.Cache
+X:\FreeLance\ahmett06\01_source-code\05_project\185007022\AHMETCANGOZGORER\obj\x86\Debug\AHMETCANGOZGORER.exe
+X:\FreeLance\ahmett06\01_source-code\05_project\185007022\AHMETCANGOZGORER\obj\x86\Debug\AHMETCANGOZGORER.pdb

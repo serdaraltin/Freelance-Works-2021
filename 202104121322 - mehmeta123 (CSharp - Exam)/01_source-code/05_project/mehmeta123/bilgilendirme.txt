@@ -1,0 +1,1 @@
+çalıştırmak istediğiniz proje (örn : Soru1 = ConsoleApp1) için proje üzerine sağ tıklayıp "set as startup" seçeneğini seçin

@@ -1,0 +1,85 @@
+package it;
+
+import java.util.*;
+
+public class UnderGraduate implements IStudent {
+
+	protected int stdNo;
+	protected String stdName;
+	protected String stdSirName;
+	protected String stdDepartment;
+	
+	protected List<Integer> lessonNo=new ArrayList<Integer>();
+	protected List<String> lessonName=new ArrayList<String>();
+	protected List<Integer> lessonEcts=new ArrayList<Integer>();
+	protected List<Double> examGrade=new ArrayList<Double>();
+	
+	public Integer getLessonNo(int no) {
+		return lessonNo.get(no);
+	}
+	public void setLessonNo(Integer lessonNo) {
+		this.lessonNo.add(lessonNo);
+	}
+	public String getLessonName(int no) {
+		return lessonName.get(no);
+	}
+	public void setLessonName(String lessonName) {
+		this.lessonName.add(lessonName);
+	}
+	public Integer getLessonEcts(int no) {
+		return lessonEcts.get(no);
+	}
+	public void setLessonEcts(Integer lessonEcts) {
+		this.lessonEcts.add(lessonEcts);
+	}
+	public Double getExamGrade(int no) {
+		return examGrade.get(no);
+	}
+	public void setExamGrade(Double examGrade) {
+		this.examGrade.add(examGrade);
+	}
+	public List<IClasses> getLessons() {
+		return lessons;
+	}
+	public void setLessons(List<IClasses> lessons) {
+		this.lessons = lessons;
+	}
+	List<IClasses> lessons = new ArrayList<IClasses>();
+	public int getStdNo() {
+		return stdNo;
+	}
+	public void setStdNo(int stdNo) {
+		this.stdNo = stdNo;
+	}
+	public String getStdName() {
+		return stdName;
+	}
+	public void setStdName(String stdName) {
+		this.stdName = stdName;
+	}
+	public String getStdSirName() {
+		return stdSirName;
+	}
+	public void setStdSirName(String stdSirName) {
+		this.stdSirName = stdSirName;
+	}
+	public String getStdDepartment() {
+		return stdDepartment;
+	}
+	public void setStdDepartment(String stdDepartment) {
+		this.stdDepartment = stdDepartment;
+	}
+
+	@Override
+	public double cumulativeSuccessGrade() {
+		
+		return 0;
+	}
+	@Override
+	public void addLesson(int lessonNo,String lessonName,int lessonEcts,double examGrade) {
+		// TODO Auto-generated method stub
+		this.lessonNo.add(lessonNo);
+	}
+
+
+}

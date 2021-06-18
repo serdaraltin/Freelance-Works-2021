@@ -1,0 +1,40 @@
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Anasayfa.resources
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Hakkinda.resources
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Islem.resources
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_VeritabaniBaglanti.resources
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Properties.Resources.resources
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Personel.resources
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\bin\Debug\GazeteOtomasyon.exe.config
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\bin\Debug\GazeteOtomasyon.exe
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\bin\Debug\GazeteOtomasyon.pdb
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.exe
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.pdb
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Abone.resources
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Firma.resources
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Urun.resources
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Stok.resources
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_AboneUrun.resources
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Teslimat.resources
+C:\Users\User\Desktop\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Giris.resources
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\bin\Debug\GazeteOtomasyon.exe.config
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\bin\Debug\GazeteOtomasyon.exe
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\bin\Debug\GazeteOtomasyon.pdb
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\Project.csprojResolveAssemblyReference.cache
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Giris.resources
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Teslimat.resources
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_AboneUrun.resources
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Stok.resources
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Urun.resources
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Firma.resources
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Anasayfa.resources
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Hakkinda.resources
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Islem.resources
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Abone.resources
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_Personel.resources
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Form_VeritabaniBaglanti.resources
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.Properties.Resources.resources
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\Project.csproj.GenerateResource.Cache
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.exe
+G:\FreeLance\#completed\202004080409 - Durid (C# - Newspaper Automation)\source-code\GazeteOtomasyon\GazeteOtomasyon\obj\Debug\GazeteOtomasyon.pdb

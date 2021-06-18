@@ -1,0 +1,10 @@
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru3\bin\Debug\Soru3.exe
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru3\bin\Debug\Soru3.pdb
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru3\bin\Debug\Soru3.xml
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru3\obj\Debug\Soru3.Form1.resources
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru3\obj\Debug\Soru3.Resources.resources
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru3\obj\Debug\Soru3.vbproj.GenerateResource.Cache
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru3\obj\Debug\Soru3.exe
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru3\obj\Debug\Soru3.xml
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru3\obj\Debug\Soru3.pdb
+Y:\Freelance\CanerAg412\01_source-code\05_project\Soru1\Soru3\obj\Debug\Soru3.Form2.resources

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soru3", "Zinckernagel10\Soru3.csproj", "{11EC9610-0305-417C-9DB2-98B45ECC2871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soru2", "Soru2\Soru2.csproj", "{0D0F4F52-3416-45CC-BA65-B2A93AA46C31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soru1", "Soru1\Soru1.csproj", "{88F9E16D-71B4-409E-977A-ECF0A4D4EAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11EC9610-0305-417C-9DB2-98B45ECC2871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11EC9610-0305-417C-9DB2-98B45ECC2871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11EC9610-0305-417C-9DB2-98B45ECC2871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11EC9610-0305-417C-9DB2-98B45ECC2871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0F4F52-3416-45CC-BA65-B2A93AA46C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0F4F52-3416-45CC-BA65-B2A93AA46C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0F4F52-3416-45CC-BA65-B2A93AA46C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0F4F52-3416-45CC-BA65-B2A93AA46C31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F9E16D-71B4-409E-977A-ECF0A4D4EAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F9E16D-71B4-409E-977A-ECF0A4D4EAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F9E16D-71B4-409E-977A-ECF0A4D4EAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F9E16D-71B4-409E-977A-ECF0A4D4EAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

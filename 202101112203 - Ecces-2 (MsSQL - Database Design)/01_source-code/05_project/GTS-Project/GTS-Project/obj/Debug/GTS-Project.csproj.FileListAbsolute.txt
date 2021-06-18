@@ -1,0 +1,36 @@
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS-Project.csprojResolveAssemblyReference.cache
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Properties.Resources.resources
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS-Project.csproj.GenerateResource.Cache
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Anasayfa.resources
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Hakkinda.resources
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Islem.resources
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_VeritabaniBaglanti.resources
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\bin\Debug\GTS-Project.exe.config
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\bin\Debug\GTS-Project.exe
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\bin\Debug\GTS-Project.pdb
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS-Project.exe
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS-Project.pdb
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Danisman.resources
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Yazar.resources
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Baslik.resources
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Universite.resources
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Enstitu.resources
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Tez.resources
+G:\FreeLance\gamzee1256\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_TezAra.resources
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS-Project.csprojResolveAssemblyReference.cache
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Anasayfa.resources
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_OgretimUyesi.resources
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Islem.resources
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_VeritabaniBaglanti.resources
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Properties.Resources.resources
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS-Project.csproj.GenerateResource.Cache
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS-Project.exe
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS-Project.pdb
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\bin\Debug\GTS-Project.exe.config
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\bin\Debug\GTS-Project.exe
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\bin\Debug\GTS-Project.pdb
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Ders.resources
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Bolum.resources
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Fakulte.resources
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Donem.resources
+G:\FreeLance\Ecces (MsSQL - Database Design)\01_source-code\05_project\GTS-Project\GTS-Project\obj\Debug\GTS_Project.Form_Sinav.resources

@@ -1,0 +1,61 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Dictionary;
+import java.util.Enumeration;
+
+public class GetFreq<String,Integer> extends Dictionary<String, Integer>{
+	
+	Integer value;
+	public void freqs(ArrayList<java.lang.String> a,ArrayList<java.lang.String> a2,ArrayList<java.lang.String> a3,MyHashSet<String> hash)
+	{
+		int count=0;
+		for(String token:hash)
+		{
+			count=Collections.frequency(a, token)+Collections.frequency(a2, token)+Collections.frequency(a3, token);
+			System.out.println(token.toString()+": "+count);
+			value=count;
+			this.put(token, value);
+			
+		}
+		
+	}
+	@Override
+	public int size() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	@Override
+	public boolean isEmpty() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+	@Override
+	public Enumeration<String> keys() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public Enumeration<Integer> elements() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public Integer get(Object key) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public Integer put(String key, Integer value) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public Integer remove(Object key) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+}

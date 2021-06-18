@@ -1,0 +1,2 @@
+.docx yeni sürüm ofis programlarında,
+.doc eski sürüm ofis programlarında çalışmaktadır.

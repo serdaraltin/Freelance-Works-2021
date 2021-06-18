@@ -1,0 +1,27 @@
+package itDepartment;
+
+public class Doctorate extends Graduate {
+
+	String underGraduateScholl;
+	String underGraduateDepartment;
+	String postGraduateSchool;
+	String postGraduateDepartment;
+	public Doctorate(String underGraduateScholl,String underGraduateDepartment,String postGraduateSchool, String postGraduateDepartment) {
+		super();
+		this.underGraduateScholl=underGraduateScholl;
+		this.underGraduateDepartment=underGraduateDepartment;
+		this.postGraduateSchool=postGraduateSchool;
+		this.postGraduateDepartment=postGraduateDepartment;
+		
+		
+	}
+	@Override
+	public String toString() {
+		return "Doctorate [underGraduateScholl=" + underGraduateScholl + ", underGraduateDepartment="
+				+ underGraduateDepartment + ", postGraduateSchool=" + postGraduateSchool + ", postGraduateDepartment="
+				+ postGraduateDepartment + ", stdNo=" + stdNo + ", stdName=" + stdName + ", stdSirName=" + stdSirName
+				+ ", stdDepartment=" + stdDepartment + ", lessonNo=" + lessonNo + ", lessonName=" + lessonName
+				+ ", lessonEcts=" + lessonEcts + ", examGrade=" + examGrade + "]";
+	}
+
+}

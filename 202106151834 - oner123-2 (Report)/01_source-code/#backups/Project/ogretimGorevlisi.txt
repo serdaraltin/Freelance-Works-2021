@@ -1,0 +1,1 @@
+1,123456,12345678913,Kadir,Dündar,Erkek,01.01.1975,05459631232,kadir@mail.com,deneme adres,bilgisayar

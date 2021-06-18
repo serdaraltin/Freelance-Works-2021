@@ -1,0 +1,3 @@
+Hocanız sisteme "123456789_Cenk_Ozdemir.c" şeklinde yükleme yapılmasını istemiş.
+Siz pdf halinde istediğiniz fakat büyük ihtimalle hocanızın istediği şekilde olmayacağından sisteme yükleyemeyeceksiniz.
+Bundan dolayı programların .c uzantılı dosyalarıda iletilmiştir.
